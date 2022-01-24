@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Research projects"
+  - title: "Portfolio"
     url: /portfolio/
-    
-    - title: "Publications"
+
+  - title: "Publications"
     url: /publications/
 
   - title: "Press & media"
@@ -11,7 +11,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+           
+  - title: "Blog Posts"
+    url: /year-archive/
     
-
+  - title: "CV"
+    url: /cv/
     
-    
+  - title: "Guide"
+    url: /markdown/
