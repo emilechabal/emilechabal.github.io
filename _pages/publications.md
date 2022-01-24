@@ -16,7 +16,7 @@ There have also been two review forums on the book on the Tocqueville21 website 
 
 You can buy the book <a href="https://politybooks.com/bookdetail/?isbn=9781509530014" target="_blank">directly from the publisher</a> or at <a target="_blank" href="https://www.amazon.co.uk/France-Polity-Histories-Emile-Chabal/dp/1509530029/">Amazon (UK)</a>, <a target="_blank" href="https://www.amazon.com/France-Polity-Histories-Emile-Chabal/dp/1509530029/">Amazon (USA)</a> and <a target="_blank" href="https://www.amazon.fr/France-Polity-Histories-Emile-Chabal/dp/1509530029/"> Amazon (France)</a>
 
-<hr>
+<hr />
 
 <a target="_blank" href="/images/divrep.jpg"><img src="/images/divrep.jpg" alt="Cover image" title="Click here for larger image" style="float:left;width:200px;height:300px;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">A Divided Republic: nation, state and citizenship in contemporary France </span>(Cambridge: Cambridge University Press, 2015)
 
@@ -28,7 +28,7 @@ J'ai discut&eacute; de mon livre en fran&ccedil;ais <a target="_blank" href="htt
 
 You can visit the <a href="http://www.cambridge.org/gb/academic/subjects/history/twentieth-century-european-history/divided-republic-nation-state-and-citizenship-contemporary-france?format=PB" target="_blank">book's website</a> and you can <a href="https://doi.org/10.1017/CBO9781107447936" target="_blank">get online access to the e-book via Cambridge Core</a>. The book is also available at <a target="_blank" href="https://www.amazon.co.uk/Divided-Republic-Nation-Citizenship-Contemporary/dp/1107692873">Amazon (UK)</a>, <a target="_blank" href="https://www.amazon.com/Divided-Republic-Nation-Citizenship-Contemporary/dp/1107692873">Amazon (USA)</a> and <a target="_blank" href="https://www.amazon.fr/Divided-Republic-Nation-Citizenship-Contemporary/dp/1107692873"> Amazon (France)</a>.
 
-<hr>
+<hr />
 
 <a target="_blank" href="/images/france1970s.jpg"><img src="/images/france1970s.jpg" alt="Cover image" title="Click here for larger image" style="float:right;width:200px;height:300px;margin:0px 0px 10px 10px"></a><span style="font-style: italic;">France since the 1970s: history, politics and memory in an age of uncertainty </span>(London: Bloomsbury Academic, 2014) (edited)
 
@@ -38,7 +38,7 @@ Contributors to this volume include: Pascal Perrineau, Jim Shields, Nick Hewlett
 
 You can <a href="http://www.bloomsbury.com/uk/france-since-the-1970s-9781472509772/" target="_blank">visit the website for the book</a> or <a href="http://dx.doi.org/10.5040/9781474210676" target="_blank">get online access to the e-book via Bloomsbury Collections</a>. You can also buy the book at <a target="_blank" href="http://www.amazon.co.uk/France-since-1970s-Bloomsbury/dp/1472509773">Amazon (UK)</a>, <a target="_blank" href="http://www.amazon.com/France-since-1970s-Politics-Uncertainty/dp/1472509773/">Amazon (USA)</a> and <a target="_blank" href="http://www.amazon.fr/France-Since-1970s-Politics-Uncertainty/dp/1472509773/">Amazon (France)</a>.
 
-<hr>
+<hr />
 
 <a target="_blank" href="/images/francebritain.jpg"><img src="/images/francebritain.jpg" title="Click here for larger image" alt="Cover image" style="float:left;width:200px;height:300px;margin:0px 10px 10px 0px"></a><span style="font-style: italic;">Britain and France in Two World Wars: Truth, Myth and Memory </span>(London:&nbsp;Bloomsbury Academic, 2013) (co-edited with Robert Tombs)
 
@@ -57,17 +57,17 @@ This is the <a href="http://www.bloomsbury.com/uk/britain-and-france-in-two-worl
 the book</a>]
 
 'Historians of the world, unite! Eric Hobsbawm and the Communist Party Historians Group, 1946-1956' in <span style="font-style: italic;">Mundos do Trabalho</span> (Vol. 10, No. 19, 2018)
-[<a href="https://periodicos.ufsc.br/index.php/mundosdotrabalho/article/view/1984-9222.2018v10n19p71/39240" target="_blank">Link to article in <span style="font-style: italic;">Mundos do Trabalho</span> (free, open access)</a>] [<a href="https://periodicos.ufsc.br/index.php/mundosdotrabalho/article/view/1984-9222.2018v10n19p71/39041" target="_blank">Tamb&eacute;m dispon&iacute;vel em portugu&ecirc;s na revista <span style="font-style: italic;">Mundos do Trabalho</span></a>]</big><br /><br />
+[<a href="https://periodicos.ufsc.br/index.php/mundosdotrabalho/article/view/1984-9222.2018v10n19p71/39240" target="_blank">Link to article in <span style="font-style: italic;">Mundos do Trabalho</span> (free, open access)</a>] [<a href="https://periodicos.ufsc.br/index.php/mundosdotrabalho/article/view/1984-9222.2018v10n19p71/39041" target="_blank">Tamb&eacute;m dispon&iacute;vel em portugu&ecirc;s na revista <span style="font-style: italic;">Mundos do Trabalho</span></a>]
 
 'Les intellectuels et la crise de la d&eacute;mocratie' in <span style="font-style: italic;">Pouvoirs</span> (No. 161, April 2017)
 [<a href="intellectuelscrise.pdf" target="_blank">Link to article (free)</a>] [<a href="http://dx.doi.org/10.3917/pouv.161.0109" target="_blank">Link to article through Cairn (subscription only)</a>]
 
 'What future for French politics in an age of terrorism?', a special section in <span style="font-style: italic;">Modern and Contemporary France</span> (Vol. 25, No. 1, 2017). Follow <a target="_blank" href="asmcfspecialsection.pdf">this link</a> (free) to read the complete section or access the individual articles using the links below (subscription only):
-<object><ul> 
+<ul>
 	<li>Emile Chabal, <a href="http://dx.doi.org/10.1080/09639489.2016.1246164" target="_blank">'From the banlieue to the burkini: the many lives of French republicanism'</a></li>
 	<li>Michael Behrent, <a href="http://dx.doi.org/10.1080/09639489.2016.1246167" target="_blank">'Twilight of the political? On the ideological disarray of French politics'</a></li> 
 	<li>Camille Robcis, <a href="http://dx.doi.org/10.1080/09639489.2016.1246169" target="_blank">'Debt, refugees and the failure of the European project in 2015'</a></li>
-</ul></object>
+</ul>
 
 'The Agonies of Liberalism' in <span style="font-style: italic;">Contemporary European History</span> (Vol. 25, No. 4, 2016)
 [<a target="_blank" href="agoniesofliberalism.pdf">Link to article (free)</a>] [<a href="http://dx.doi.org/10.1017/S0960777316000321" target="_blank">Link to article in <span style="font-style: italic;">Contemporary European History</span> (subscription only)</a>]
@@ -75,76 +75,39 @@ the book</a>]
 'French Political Culture in the 1970s. Liberalism, Identity Politics and the Modest State' in <span style="font-style: italic;">Geschichte und Gesellschaft</span> (Vol. 42, No. 2, 2016)
 [<a target="_blank" href="frenchpolcult70s.pdf">Link to article (free)</a>] [<a href="http://dx.doi.org/10.13109/gege.2016.42.2.243" target="_blank">Link to article in <span style="font-style: italic;">Geschichte und Gesellschaft</span> (subscription only)</a>]
 
-<big style="color: black;">'Capitalism and its critics: anti-liberalism in contemporary French politics' in <span style="font-style: italic;">In Search of the Liberal Moment: Democracy, Anti-totalitarianism, and Intellectual Politics in France since 1950</span>, eds. Iain Stewart and Stephen Sawyer (London: Palgrave, 2016)<br /> [<a href="http://link.springer.com/chapter/10.1057%2F9781137581266_7" target="_blank">Online access through SpringerLink</a>] [Disponible &eacute;galement en version fran&ccedil;aise via la revue <a href="https://doi.org/10.4000/quaderni.1250" target="_blank"><span style="font-style: italic;">Quaderni</span></a> et en <a href="capitalismecritiques.pdf" target="_blank">open-access</a>]</big><br />
-<big style="color: black;"><br />
-'Managing the postcolony: minority politics in Montpellier, c.1960-c.2010' in <span style="font-style: italic;">Contemporary European History</span> (Vol. 23, No. 2, 2014)<br />
-[<a target="_blank" href="montpellier.pdf">Link to article (free)</a>] [<a target="_blank" href="http://dx.doi.org/10.1017/s096077731400006x">Link to article in <span style="font-style: italic;">Contemporary European History </span>(subscription only)</a>]</big><br /><big style="color: black;"><br />'Le Pr&eacute;sident? Georges Fr&ecirc;che and the
-making of a local notable in late 20th century France' in <span style="font-style: italic;">Place and Locality in Modern
-France, 1750-present</span>, eds. Philip Whalen &amp; Patrick Young
-(London: Bloomsbury Academic, 2014)<br />
-[<a href="http://www.bloomsbury.com/uk/place-and-locality-in-modern-france-9781780936864/" target="_blank">Link to publisher's page</a>] [<a href="http://www.amazon.co.uk/Locality-Modern-France-Philip-Whalen/dp/1780936869" target="_blank">Buy
-the book at Amazon (UK)</a>] [<a href="http://dx.doi.org/10.5040/9781474210843.0026" target="_blank">Online access (subscription only)</a>]<br />
-<br />
-'The rise of the
-Anglo-Saxon: French perceptions of the Anglo-American world in the long
-twentieth century' in <span style="font-style: italic;">French
-Politics, Culture and Society</span> (Vol. 31,
-No. 1, Spring 2013)</big><br />
-<big style="color: black;">[<a target="_blank" href="ecanglosaxon.pdf">Link to article (free)</a>] [<a target="_blank" href="http://www.jstor.org/stable/24517581">Link to article on JSTOR (subscription only)</a>]</big><br />
-<br />
-<big style="color: black;">'Just say non?
-France, Britain and the
-European Union since the 1980s' in <span style="font-style: italic;">National
-Identities in France</span>, ed.
-Brian J. Sudlow (London: Transaction Press, 2011)</big><br />
-<big style="color: black;">[<a href="eceu.pdf" target="_blank">PDF</a>] [<a target="_blank" href="http://www.transactionpub.com/title/National-Identities-in-France-978-1-4128-4288-4.html">Link to publisher's page</a>] [<a href="http://www.amazon.co.uk/National-Identities-France-Brian-Sudlow/dp/1412842883" target="_blank">Buy
-the book at Amazon (UK)</a>]</big><br /><br />
-<big style="color: black;">'De 'New Britain' &agrave; la 'Big Society': l'innovation sociale &agrave; l'anglaise' in <span style="font-style: italic;">Chantiers Politiques</span> (No. 9, Summer 2011)</big><br />
-<big style="color: black;">[<a href="innovationsociale.pdf" target="_blank">Link to
-article (free)</a>]</big>
-<br />
-<br />
-<big style="color: black;">'Writing
-the French national narrative in the 21st century' in <span style="font-style: italic;">The
-Historical Journal</span> (Vol. 53, No. 2, Summer 2010)</big><br />
-<big style="color: black;">[<a href="nationalnarrative.pdf" target="_blank">Link to
-article (free)</a>]</big><big style="color: black;">
-[<a href="https://www.jstor.org/stable/40865699
-" target="_blank">Link
-to article on JSTOR (subscription only)</a>] </big><br />
-<br />
-<big style="color: black;">'La
-R&eacute;publique postcoloniale: making the nation in late 20th century
-France' in <span style="font-style: italic;">France's
-Lost Empires: Fragmentation, Nostalgia and la
-fracture coloniale</span>, eds. Nicki Frith and Kate Marsh
-(London:
-Lexington,
-2010)</big><br />
-<big style="color: black;">[<a href="ecreppoco.pdf" target="_blank">PDF</a>] [<a target="_blank" href="https://rowman.com/ISBN/9780739148839">Link
-to publisher's page</a>] [<a href="http://www.amazon.co.uk/Frances-Lost-Empires-Fragmentation-Nostalgia/dp/0739148834" target="_blank">Buy
-the book at Amazon (UK)</a>]</big><br />
-<big style="color: black;"><br />
-</big><big style="color: black;">'Ernest
-Renan' in <span style="font-style: italic;">The
-Encyclopedia of Political Theory, Vol. 3</span>, ed. M. Bevir
-(London: SAGE, 2010)</big><br />
-<big style="color: black;">[<a target="_blank" href="http://knowledge.sagepub.com/view/politicaltheory/n385.xml">Consult the entry online at
-SAGE&nbsp;(subscription only)</a>] <a href="http://www.amazon.co.uk/Encyclopedia-Political-Theory-Mark-Bevir/dp/1412958652" target="_blank">[Buy
-the book at Amazon (UK)</a>]
-</big><br /><br />
-<big style="color: black;">'Uses and abuses of
-history: memories of the
-R&eacute;publique in late 20th century France' in <span style="font-style: italic;">Historicising the French
-Revolution</span>, eds. I. DiVanna, D. Dodds and T.
-Blanning (Newcastle:
-Cambridge Scholars Publishing, 2008)</big><br />
-<big style="color: black;">[<a target="_blank" href="http://www.cambridgescholars.com/historicising-the-french-revolution-20">Link to publisher's page</a>] [<span style="text-decoration: underline;"></span><a href="http://www.amazon.co.uk/Historicising-French-Revolution-Carolina-Armenteros/dp/1847186408" target="_blank">Buy
-the book at Amazon (UK</a>)]</big><br />
-</div>
-<br />
-<a name="press"></a>
-<br />
+'Capitalism and its critics: anti-liberalism in contemporary French politics' in <span style="font-style: italic;">In Search of the Liberal Moment: Democracy, Anti-totalitarianism, and Intellectual Politics in France since 1950</span>, eds. Iain Stewart and Stephen Sawyer (London: Palgrave, 2016)
+[<a href="http://link.springer.com/chapter/10.1057%2F9781137581266_7" target="_blank">Online access through SpringerLink</a>] [Disponible &eacute;galement en version fran&ccedil;aise via la revue <a href="https://doi.org/10.4000/quaderni.1250" target="_blank"><span style="font-style: italic;">Quaderni</span></a> et en <a href="capitalismecritiques.pdf" target="_blank">open-access</a>]
+
+'Managing the postcolony: minority politics in Montpellier, c.1960-c.2010' in <span style="font-style: italic;">Contemporary European History</span> (Vol. 23, No. 2, 2014)
+[<a target="_blank" href="montpellier.pdf">Link to article (free)</a>] [<a target="_blank" href="http://dx.doi.org/10.1017/s096077731400006x">Link to article in <span style="font-style: italic;">Contemporary European History </span>(subscription only)</a>]</big><br /><big style="color: black;">
+	
+'Le Pr&eacute;sident? Georges Fr&ecirc;che and the making of a local notable in late 20th century France' in <span style="font-style: italic;">Place and Locality in Modern
+France, 1750-present</span>, eds. Philip Whalen &amp; Patrick Young (London: Bloomsbury Academic, 2014)
+[<a href="http://www.bloomsbury.com/uk/place-and-locality-in-modern-france-9781780936864/" target="_blank">Link to publisher's page</a>] [<a href="http://www.amazon.co.uk/Locality-Modern-France-Philip-Whalen/dp/1780936869" target="_blank">Buy the book at Amazon (UK)</a>] [<a href="http://dx.doi.org/10.5040/9781474210843.0026" target="_blank">Online access (subscription only)</a>]
+	
+'The rise of the Anglo-Saxon: French perceptions of the Anglo-American world in the long twentieth century' in <span style="font-style: italic;">French Politics, Culture and Society</span> (Vol. 31, No. 1, Spring 2013)
+[<a target="_blank" href="ecanglosaxon.pdf">Link to article (free)</a>] [<a target="_blank" href="http://www.jstor.org/stable/24517581">Link to article on JSTOR (subscription only)</a>]
+
+'Just say non? France, Britain and the European Union since the 1980s' in <span style="font-style: italic;">National Identities in France</span>, ed. Brian J. Sudlow (London: Transaction Press, 2011)
+[<a href="eceu.pdf" target="_blank">PDF</a>] [<a target="_blank" href="http://www.transactionpub.com/title/National-Identities-in-France-978-1-4128-4288-4.html">Link to publisher's page</a>] [<a href="http://www.amazon.co.uk/National-Identities-France-Brian-Sudlow/dp/1412842883" target="_blank">Buy the book at Amazon (UK)</a>]
+
+'De 'New Britain' &agrave; la 'Big Society': l'innovation sociale &agrave; l'anglaise' in <span style="font-style: italic;">Chantiers Politiques</span> (No. 9, Summer 2011)
+[<a href="innovationsociale.pdf" target="_blank">Link to article (free)</a>]
+
+'Writing the French national narrative in the 21st century' in <span style="font-style: italic;">The Historical Journal</span> (Vol. 53, No. 2, Summer 2010)
+[<a href="nationalnarrative.pdf" target="_blank">Link to article (free)</a>][<a href="https://www.jstor.org/stable/40865699" target="_blank">Link to article on JSTOR (subscription only)</a>]
+	
+'La R&eacute;publique postcoloniale: making the nation in late 20th century France' in <span style="font-style: italic;">France's Lost Empires: Fragmentation, Nostalgia and la fracture coloniale</span>, eds. Nicki Frith and Kate Marsh (London: Lexington, 2010)
+[<a href="ecreppoco.pdf" target="_blank">PDF</a>] [<a target="_blank" href="https://rowman.com/ISBN/9780739148839">Link to publisher's page</a>] [<a href="http://www.amazon.co.uk/Frances-Lost-Empires-Fragmentation-Nostalgia/dp/0739148834" target="_blank">Buy the book at Amazon (UK)</a>]
+
+'Ernest Renan' in <span style="font-style: italic;">The Encyclopedia of Political Theory, Vol. 3</span>, ed. M. Bevir (London: SAGE, 2010)
+[<a target="_blank" href="http://knowledge.sagepub.com/view/politicaltheory/n385.xml">Consult the entry online at SAGE&nbsp;(subscription only)</a>] <a href="http://www.amazon.co.uk/Encyclopedia-Political-Theory-Mark-Bevir/dp/1412958652" target="_blank">[Buy the book at Amazon (UK)</a>]
+
+'Uses and abuses of history: memories of the R&eacute;publique in late 20th century France' in <span style="font-style: italic;">Historicising the French Revolution</span>, eds. I. DiVanna, D. Dodds and T. Blanning (Newcastle: Cambridge Scholars Publishing, 2008)
+[<a target="_blank" href="http://www.cambridgescholars.com/historicising-the-french-revolution-20">Link to publisher's page</a>]</span><a href="http://www.amazon.co.uk/Historicising-French-Revolution-Carolina-Armenteros/dp/1847186408" target="_blank">Buy the book at Amazon (UK</a>)]
+
+## Essays and long-form writing
+
 <big style="color: black;"><big>Shorter publications (essays, editorials, blog posts, interviews)</big></big><br /><br />
 <div style="margin-left: 40px;"><big style="color: black;">Here is a selection of recent media and public engagement work:<br /><br />
 <object><ul>
