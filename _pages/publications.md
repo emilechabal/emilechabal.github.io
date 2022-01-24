@@ -4,13 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<span style="font-style: italic;">To see some of my recent short articles, op-eds and podcasts about current affairs, click <a href="#press">here</a>.</span><br />
-
 ## Books
 
-***
+---
 
-<a target="_blank" href="/images/francecover.jpg"><img src="/images/francecover.jpg" title="Click here for larger image" alt="Cover image" style="float:left;width:180px;height:300px;margin:0px 0px"></a><span style="font-style: italic;">France </span>(Cambridge: Polity Press, 2020)<br />
+<a target="_blank" href="/images/francecover.jpg"><img src="/images/francecover.jpg" title="Click here for larger image" alt="Cover image" style="float:left;width:200px;height:300px;margin:5px 5px"></a><span style="font-style: italic;">France </span>(Cambridge: Polity Press, 2020)<br />
 	
 This book is an introduction to French history since 1940, organised around six thematic and chronological chapters. Starting from the idea that France is a "paradoxical" nation, it looks at a number of contradictions within recent French history, including the tension between defeat and resistance, state and citizen, and colonialism and anti-colonialism.<br />
 	
