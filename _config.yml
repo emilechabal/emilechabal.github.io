@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Emile Chabal"
   avatar           : "img6.jpg"
-  bio              : "Reader in History, University of Edinburgh."
+  bio              : "Reader in History, University of Edinburgh"
   location         : "Edinburgh, UK"
   employer         : 
   pubmed           : 
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0003-2128-8878"
