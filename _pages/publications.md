@@ -7,6 +7,7 @@ author_profile: true
 <span style="font-style: italic;">To see some of my recent short articles, op-eds and podcasts about current affairs, click <a href="#press">here</a>.</span><br />
 
 ## Books
+
 ***
 
 <a target="_blank" href="/images/francecover.jpg"><img src="/images/francecover.jpg" title="Click here for larger image" alt="Cover image" style="float:left;width:180px;height:300px;margin:0px 0px"></a><span style="font-style: italic;">France </span>(Cambridge: Polity Press, 2020)<br />
