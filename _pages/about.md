@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/teaching.jpg" title="Click here for larger image" alt="Cover image" class="center" style="width:431px;height:321px;margin:5px 5px 5px 5px">
-
-I was educated at Cambridge, Rice University, Harvard University and the École Normale Supérieure, Paris. I completed my PhD at Cambridge and my thesis was subsequently awarded the History Faculty's Prince Consort and Thirlwall Prize, and Seeley Medal for the best dissertation across all periods.
+<img src="/images/teaching.jpg" alt="Teaching" style="float:right;width:431px;height:321px;margin:0px 10px 10px 0px"> I was educated at Cambridge, Rice University, Harvard University and the École Normale Supérieure, Paris. I completed my PhD at Cambridge and my thesis was subsequently awarded the History Faculty's Prince Consort and Thirlwall Prize, and Seeley Medal for the best dissertation across all periods.
 
 Immediately after completing my doctorate, I took up a position as a Departmental Lecturer in Modern European History in the Faculty of History and Balliol College, Oxford. I returned to Cambridge in 2012 as a Research Fellow in French Political History at St John's College. In 2013, I <a href="https://www.ed.ac.uk/history-classics-archaeology/history/about/staff-profiles/profile_tab1_academic.php?uun=echabal" target="_blank">moved to the University of Edinburgh</a> as a Chancellor's Fellow in History. I was promoted to Reader in 2018.
 
