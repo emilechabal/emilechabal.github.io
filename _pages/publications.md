@@ -47,7 +47,7 @@ This is the <a href="http://www.bloomsbury.com/uk/britain-and-france-in-two-worl
 
 ## Articles and book chapters
 
-'Big data, small concepts: histosophy as an approach to longue-dur&eacute;e history' in <span style="font-style: italic;">Global Intellectual History</span> (Vol. 6, No. 1, 2021) (co-authored with Luis de Miranda)<br />[<a href="https://www.tandfonline.com/doi/full/10.1080/23801883.2019.1592871" target="_blank">Link to article in <span style="font-style: italic;">Global Intellectual History</span> (free, open access)</a>]
+'Big data, small concepts: histosophy as an approach to longue-dur&eacute;e history' in <span style="font-style: italic;">Global Intellectual History</span> (Vol. 6, No. 1, 2021) (co-authored with Luis de Miranda) [<a href="https://www.tandfonline.com/doi/full/10.1080/23801883.2019.1592871" target="_blank">Link to article in <span style="font-style: italic;">Global Intellectual History</span> (free, open access)</a>]
 
 'Anticolonialism' in <span style="font-style: italic;">The Cambridge History of French Thought</span>, eds. Michael Moriarty and Jeremy Jennings (Cambridge, Cambridge University Press, 2019)
 [<a href="/files/anticolonialism.pdf" target="_blank">PDF</a>] [<a target="_blank" href="https://doi.org/10.1017/9781316681572.049">Online access to the chapter via Cambridge Core (subscription only)</a>] [<a href="https://www.cambridge.org/gb/academic/subjects/literature/european-literature/cambridge-history-french-thought?format=HB" target="_blank">Buy
@@ -114,12 +114,11 @@ For op-eds, blog posts and other media, go to <a href="/pages/talks.html">Press 
    <li><a href="europeaftersarkozy.pdf" target="_blank">'Europe after Sarkozy'</a> in <span style="font-style: italic;">Economic and Political Weekly</span> (2 June 2012)</li>
 </ul>
 
-<img src="/images/euroflag.jpg" alt="Britain and Europe" style="float:left;width:170px;height:104px;margin:0px 10px 0px 10px">In 2015, I co-wrote an essay with Stephan Malinowski on the idea of exceptionalism in British history and Britain's relation with Europe. This was published in a number of different outlets and languages:
-
+<img src="/images/euroflag.jpg" alt="Britain and Europe" style="float:right;width:170px;height:104px;margin:0px 10px 10px 0px">In 2015, I co-wrote an essay with Stephan Malinowski on the idea of exceptionalism in British history and Britain's relation with Europe. This was published in a number of different outlets and languages:
 <ul>
    <li>(English) <a href="http://www.booksandideas.net/Can-Britain-be-European.html" target="_blank">'Can Britain be European?'</a> in <span style="font-style: italic;">Books and Ideas</span> (22 June 2015)</li>
    <li>(Fran&ccedil;ais) <a href="http://www.laviedesidees.fr/La-Grande-Bretagne-peut-elle-etre-europeenne.html" target="_blank">'La Grande Bretagne peut-elle &ecirc;tre europ&eacute;enne?'</a> in <span style="font-style: italic;">La Vie des Id&eacute;es</span> (19 June 2015)</li>
-   <li>(Deutsch) <a href="http://www.zeit.de/2015/29/grossbritannien-briten-europa-brexit-geschichte" target="_blank">'Ganz aparte Briten'</a> in <span style="font-style: italic;">Die Zeit</span> (16 July 2015) and <a href="merkur.pdf" target="_blank">'Geh&ouml;rt Gro&szlig;britannien zu Europa?'</a> in <span style="font-style: italic;">Merkur</span> (No. 796, Sept 2015). There was further coverage of this debate in <a href="spiegel.pdf" target="_blank"><span style="font-style: italic;">Der Spiegel</span></a> in June 2015.</li>
+   <li>(Deutsch) <a href="http://www.zeit.de/2015/29/grossbritannien-briten-europa-brexit-geschichte" target="_blank">'Ganz aparte Briten'</a> in <span style="font-style: italic;">Die Zeit</span> (16 July 2015) and <a href="/files/merkur.pdf" target="_blank">'Geh&ouml;rt Gro&szlig;britannien zu Europa?'</a> in <span style="font-style: italic;">Merkur</span> (No. 796, Sept 2015). There was further coverage of this debate in <a href="/files/spiegel.pdf" target="_blank"><span style="font-style: italic;">Der Spiegel</span></a> in June 2015.</li>
 </ul>
 
 ## Book reviews
@@ -160,11 +159,11 @@ Ang&eacute;line Escafr&eacute;-Dublet, <span style="font-style: italic;">Culture
 Maud Mandel, <span style="font-style: italic;">Muslims and Jews in France: History of a Conflict </span>in <span style="font-style: italic;">Journal of Modern Jewish Studies </span>(Vol. 14, No. 2, 2015) [<a target="_blank" href="/files/mandeljewsmuslims.pdf">Link to review (free)</a>] [<a target="_blank" href="http://www.tandfonline.com/doi/full/10.1080/14725886.2015.1041235">Link to review in <span style="font-style: italic;">Journal of Modern Jewish Studies </span>(subscription only)</a>]
 
 Christophe Prochasson, Vincent Duclert and Edward Berenson (eds.), <span style="font-style: italic;">The French Republic: History, Values, Debates </span>in
-<span style="font-style: italic;"> English Historical Review </span>(Vol. 130, No. 543, 2015) [<a target="_blank" href="/files/prochasson.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/ehr/cev033">Link to review in<span style="font-style: italic;"> English Historical Review </span> (subscription only)</a>]<br />
+<span style="font-style: italic;"> English Historical Review </span>(Vol. 130, No. 543, 2015) [<a target="_blank" href="/files/prochasson.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/ehr/cev033">Link to review in<span style="font-style: italic;"> English Historical Review </span> (subscription only)</a>]
 
-Chris Reynolds, <span style="font-style: italic;">Memories of May '68: France's Convenient Consensus </span>in <span style="font-style: italic;"> The Journal of Modern History </span>(Vol. 86, No. 4, 2014) [<a target="_blank" href="/files/chrisreynolds.pdf">Link to review (free)</a>] [<a target="_blank" href="http://www.jstor.org/stable/10.1086/678740">Link to review in <span style="font-style: italic;">The Journal of Modern History</span> (subscription only)</a>]<br />
+Chris Reynolds, <span style="font-style: italic;">Memories of May '68: France's Convenient Consensus </span>in <span style="font-style: italic;"> The Journal of Modern History </span>(Vol. 86, No. 4, 2014) [<a target="_blank" href="/files/chrisreynolds.pdf">Link to review (free)</a>] [<a target="_blank" href="http://www.jstor.org/stable/10.1086/678740">Link to review in <span style="font-style: italic;">The Journal of Modern History</span> (subscription only)</a>]
 
-	Amelia Lyons, <span style="font-style: italic;">The Civilizing Mission in the Metropole: Algerian Families and the Welfare State during Decolonization </span>in <span style="font-style: italic;"> H-France </span>(Vol. 14, No. 165, October 2014) [<a target="_blank" href="http://www.h-france.net/vol14reviews/vol14no165chabal.pdf">Link to review on the H-France website (free)</a>]
+Amelia Lyons, <span style="font-style: italic;">The Civilizing Mission in the Metropole: Algerian Families and the Welfare State during Decolonization </span>in <span style="font-style: italic;"> H-France </span>(Vol. 14, No. 165, October 2014) [<a target="_blank" href="http://www.h-france.net/vol14reviews/vol14no165chabal.pdf">Link to review on the H-France website (free)</a>]
 
 Andrew Sartori and Samuel Moyn (eds.), <span style="font-style: italic;">Global Intellectual History </span>in <span style="font-style: italic;">La Vie des Id&eacute;es/Books and Ideas </span>(October 2014) [<a href="http://www.booksandideas.net/Global-Thinking.html" target="_blank">Link to English version: 'Global thinking'</a>] [<a href="http://www.laviedesidees.fr/Penser-a-l-echelle-globale.html" target="_blank">Version fran&ccedil;aise: 'Penser &#224; l'&eacute;chelle globale'</a>]
 
