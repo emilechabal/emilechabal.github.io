@@ -14,9 +14,8 @@ You can hear me talk more about the book on the <a target="_blank" href="https:/
 
 There have also been two review forums on the book on the Tocqueville21 website (with contributions by <a target="_blank" href="https://tocqueville21.com/focus/paradoxes-of-france/">Art Goldhammer</a>, <a target="_blank" href="https://tocqueville21.com/focus/la-tache-de-lhistorien/">Emmanuel Jousse</a>, and a <a target="_blank" href="https://tocqueville21.com/focus/lembarras-du-choix/">response by me</a>) and in the journal <a target="_blank" href="https://www.tandfonline.com/toc/cmcf20/29/3"><span style="font-style: italic;">Modern and Contemporary France</span></a> (with contributions by Minayo Nasiali, David Lees, and Evan Spritzer).
 
-You can buy the book <a href="https://politybooks.com/bookdetail/?isbn=9781509530014" target="_blank">directly from the publisher</a> or at <a target="_blank" href="https://www.amazon.co.uk/France-Polity-Histories-Emile-Chabal/dp/1509530029/">Amazon (UK)</a>, <a target="_blank" href="https://www.amazon.com/France-Polity-Histories-Emile-Chabal/dp/1509530029/">Amazon (USA)</a> and <a target="_blank" href="https://www.amazon.fr/France-Polity-Histories-Emile-Chabal/dp/1509530029/"> Amazon (France)</a>
+You can buy the book <a href="https://politybooks.com/bookdetail/?isbn=9781509530014" target="_blank">directly from the publisher</a> or at <a target="_blank" href="https://www.amazon.co.uk/France-Polity-Histories-Emile-Chabal/dp/1509530029/">Amazon (UK)</a>, <a target="_blank" href="https://www.amazon.com/France-Polity-Histories-Emile-Chabal/dp/1509530029/">Amazon (USA)</a> and <a target="_blank" href="https://www.amazon.fr/France-Polity-Histories-Emile-Chabal/dp/1509530029/"> Amazon (France)</a>.
 
----
 
 <a target="_blank" href="/images/divrep.jpg"><img src="/images/divrep.jpg" alt="Cover image" title="Click here for larger image" style="float:left;width:200px;height:300px;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">A Divided Republic: nation, state and citizenship in contemporary France </span>(Cambridge: Cambridge University Press, 2015)
 
@@ -26,7 +25,6 @@ An easy way to get a sense of what the book is about is to <a target="_blank" hr
 
 You can visit the <a href="http://www.cambridge.org/gb/academic/subjects/history/twentieth-century-european-history/divided-republic-nation-state-and-citizenship-contemporary-france?format=PB" target="_blank">book's website</a> and you can <a href="https://doi.org/10.1017/CBO9781107447936" target="_blank">get online access to the e-book via Cambridge Core</a>. The book is also available at <a target="_blank" href="https://www.amazon.co.uk/Divided-Republic-Nation-Citizenship-Contemporary/dp/1107692873">Amazon (UK)</a>, <a target="_blank" href="https://www.amazon.com/Divided-Republic-Nation-Citizenship-Contemporary/dp/1107692873">Amazon (USA)</a> and <a target="_blank" href="https://www.amazon.fr/Divided-Republic-Nation-Citizenship-Contemporary/dp/1107692873"> Amazon (France)</a>.
 
----
 
 <a target="_blank" href="/images/france1970s.jpg"><img src="/images/france1970s.jpg" alt="Cover image" title="Click here for larger image" style="float:right;width:200px;height:300px;margin:0px 0px 10px 10px"></a><span style="font-style: italic;">France since the 1970s: history, politics and memory in an age of uncertainty </span>(London: Bloomsbury Academic, 2014) (edited)
 
@@ -38,7 +36,6 @@ Contributors to this volume include: Pascal Perrineau, Jim Shields, Nick Hewlett
 
 You can <a href="http://www.bloomsbury.com/uk/france-since-the-1970s-9781472509772/" target="_blank">visit the website for the book</a> or <a href="http://dx.doi.org/10.5040/9781474210676" target="_blank">get online access to the e-book via Bloomsbury Collections</a>. You can also buy the book at <a target="_blank" href="http://www.amazon.co.uk/France-since-1970s-Bloomsbury/dp/1472509773">Amazon (UK)</a>, <a target="_blank" href="http://www.amazon.com/France-since-1970s-Politics-Uncertainty/dp/1472509773/">Amazon (USA)</a> and <a target="_blank" href="http://www.amazon.fr/France-Since-1970s-Politics-Uncertainty/dp/1472509773/">Amazon (France)</a>.
 
----
 
 <a target="_blank" href="/images/francebritain.jpg"><img src="/images/francebritain.jpg" title="Click here for larger image" alt="Cover image" style="float:left;width:200px;height:300px;margin:0px 10px 10px 0px"></a><span style="font-style: italic;">Britain and France in Two World Wars: Truth, Myth and Memory </span>(London:&nbsp;Bloomsbury Academic, 2013) (co-edited with Robert Tombs)
 
@@ -62,7 +59,7 @@ the book</a>]
 'Les intellectuels et la crise de la d&eacute;mocratie' in <span style="font-style: italic;">Pouvoirs</span> (No. 161, April 2017)
 [<a href="/files/intellectuelscrise.pdf" target="_blank">Link to article (free)</a>] [<a href="http://dx.doi.org/10.3917/pouv.161.0109" target="_blank">Link to article through Cairn (subscription only)</a>]
 
-Emile Chabal, 'From the banlieue to the burkini: the many lives of French republicanism' in <span style="font-style: italic;">Modern and Contemporary France</span> (Vol. 25, No. 1, 2017) 
+'From the banlieue to the burkini: the many lives of French republicanism' in <span style="font-style: italic;">Modern and Contemporary France</span> (Vol. 25, No. 1, 2017) 
 [<a target="_blank" href="/files/banlieue.pdf">Link to article (free)</a>] [<a href="http://dx.doi.org/10.1080/09639489.2016.1246164" target="_blank">Link to article in <span style="font-style: italic;">Modern and Contemporary France</span> (subscription only)</a>]
 
 'The Agonies of Liberalism' in <span style="font-style: italic;">Contemporary European History</span> (Vol. 25, No. 4, 2016)
@@ -91,7 +88,7 @@ France, 1750-present</span>, eds. Philip Whalen &amp; Patrick Young (London: Blo
 [<a href="/files/innovationsociale.pdf" target="_blank">Link to article (free)</a>]
 
 'Writing the French national narrative in the 21st century' in <span style="font-style: italic;">The Historical Journal</span> (Vol. 53, No. 2, Summer 2010)
-[<a href="/files/nationalnarrative.pdf" target="_blank">Link to article (free)</a>][<a href="https://www.jstor.org/stable/40865699" target="_blank">Link to article on JSTOR (subscription only)</a>]
+[<a href="/files/nationalnarrative.pdf" target="_blank">Link to article (free)</a>] [<a href="https://www.jstor.org/stable/40865699" target="_blank">Link to article on JSTOR (subscription only)</a>]
 	
 'La R&eacute;publique postcoloniale: making the nation in late 20th century France' in <span style="font-style: italic;">France's Lost Empires: Fragmentation, Nostalgia and la fracture coloniale</span>, eds. Nicki Frith and Kate Marsh (London: Lexington, 2010)
 [<a href="/files/ecreppoco.pdf" target="_blank">PDF</a>] [<a target="_blank" href="https://rowman.com/ISBN/9780739148839">Link to publisher's page</a>] [<a href="http://www.amazon.co.uk/Frances-Lost-Empires-Fragmentation-Nostalgia/dp/0739148834" target="_blank">Buy the book at Amazon (UK)</a>]
@@ -104,7 +101,7 @@ France, 1750-present</span>, eds. Philip Whalen &amp; Patrick Young (London: Blo
 
 ## Essays and long-form writing
 
-For op-eds, blog posts and other media, go to (Press and media)[/talks.html]
+For op-eds, blog posts and other media, go to <a href="/pages/talks.html">Press and media <a/>.
 
 <ul>
   <li><a target="_blank" href="https://www.jacobinmag.com/2021/04/eric-hobsbawm-marxism-history-bibliography">'Uncovering the many Eric Hobsbawms'</a> (co-authored with Anne Perez) in <span style="font-style: italic;">Jacobin</span> (27 April 2021)</li>
@@ -117,106 +114,77 @@ For op-eds, blog posts and other media, go to (Press and media)[/talks.html]
    <li><a href="europeaftersarkozy.pdf" target="_blank">'Europe after Sarkozy'</a> in <span style="font-style: italic;">Economic and Political Weekly</span> (2 June 2012)</li>
 </ul>
 
-<img src="/images/euroflag.jpg" alt="Britain and Europe" style="float:left;width:170px;height:104px;margin:0px 5px"></img>In 2015, I co-wrote an essay with Stephan Malinowski on the idea of exceptionalism in British history and Britain's relation with Europe. This was published in a number of different outlets and languages:
+<img src="/images/euroflag.jpg" alt="Britain and Europe" style="float:left;width:170px;height:104px;margin:0px 10px 0px 10px">In 2015, I co-wrote an essay with Stephan Malinowski on the idea of exceptionalism in British history and Britain's relation with Europe. This was published in a number of different outlets and languages:
 
-(English) <a href="http://www.booksandideas.net/Can-Britain-be-European.html" target="_blank">'Can Britain be European?'</a> in <span style="font-style: italic;">Books and Ideas</span> (22 June 2015)
-(Fran&ccedil;ais) <a href="http://www.laviedesidees.fr/La-Grande-Bretagne-peut-elle-etre-europeenne.html" target="_blank">'La Grande Bretagne peut-elle &ecirc;tre europ&eacute;enne?'</a> in <span style="font-style: italic;">La Vie des Id&eacute;es</span> (19 June 2015)
-(Deutsch) <a href="http://www.zeit.de/2015/29/grossbritannien-briten-europa-brexit-geschichte" target="_blank">'Ganz aparte Briten'</a> in <span style="font-style: italic;">Die Zeit</span> (16 July 2015) and <a href="merkur.pdf" target="_blank">'Geh&ouml;rt Gro&szlig;britannien zu Europa?'</a> in <span style="font-style: italic;">Merkur</span> (No. 796, Sept 2015). There was further coverage of this debate in <a href="spiegel.pdf" target="_blank"><span style="font-style: italic;">Der Spiegel</span></a> in June 2015.
+<ul>
+   <li>(English) <a href="http://www.booksandideas.net/Can-Britain-be-European.html" target="_blank">'Can Britain be European?'</a> in <span style="font-style: italic;">Books and Ideas</span> (22 June 2015)</li>
+   <li>(Fran&ccedil;ais) <a href="http://www.laviedesidees.fr/La-Grande-Bretagne-peut-elle-etre-europeenne.html" target="_blank">'La Grande Bretagne peut-elle &ecirc;tre europ&eacute;enne?'</a> in <span style="font-style: italic;">La Vie des Id&eacute;es</span> (19 June 2015)</li>
+   <li>(Deutsch) <a href="http://www.zeit.de/2015/29/grossbritannien-briten-europa-brexit-geschichte" target="_blank">'Ganz aparte Briten'</a> in <span style="font-style: italic;">Die Zeit</span> (16 July 2015) and <a href="merkur.pdf" target="_blank">'Geh&ouml;rt Gro&szlig;britannien zu Europa?'</a> in <span style="font-style: italic;">Merkur</span> (No. 796, Sept 2015). There was further coverage of this debate in <a href="spiegel.pdf" target="_blank"><span style="font-style: italic;">Der Spiegel</span></a> in June 2015.</li>
+</ul>
 
 ## Book reviews
 
 Antoine Vauchez and Pierre France, <span style="font-style: italic;">The Neoliberal Republic: Corporate Lawyers, Statecraft, and the
-Making of Public-Private France </span>in <span style="font-style: italic;">H-France Review </span>(Vol. 21, No. 181, 2021)
-[<a target="_blank" href="https://h-france.net/vol21reviews/vol21no181Chabal.pdf">Link to review in <span style="font-style: italic;">H-France Review (free)</span></a>]
+Making of Public-Private France </span>in <span style="font-style: italic;">H-France Review </span>(Vol. 21, No. 181, 2021) [<a target="_blank" href="https://h-france.net/vol21reviews/vol21no181Chabal.pdf">Link to review in <span style="font-style: italic;">H-France Review (free)</span></a>]
 
 Jacob Collins, <span style="font-style: italic;">The Anthropological Turn: French Political Thought After 1968 </span>in
-<span style="font-style: italic;">H-France Review </span>(Vol. 21, No. 67, 2021)
-[<a target="_blank" href="https://h-france.net/vol21reviews/vol21no67chabal.pdf">Link to review in <span style="font-style: italic;">H-France Review (free)</span></a>]
+<span style="font-style: italic;">H-France Review </span>(Vol. 21, No. 67, 2021) [<a target="_blank" href="https://h-france.net/vol21reviews/vol21no67chabal.pdf">Link to review in <span style="font-style: italic;">H-France Review (free)</span></a>]
 
-<big style="color: black;">Julian Wright, <span style="font-style: italic;">Socialism and the experience of time: idealism and the present in modern France</span> in
-<span style="font-style: italic;">Modern and Contemporary France </span>(online first, May 2021)
-[<a target="_blank" href="/files/socialismtime.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1080/09639489.2021.1931076">Link to review in <span style="font-style: italic;">Modern and Contemporary France </span>(subscription only)</a>]
+Socialism and the experience of time: idealism and the present in modern France</span> in <span style="font-style: italic;">Modern and Contemporary France </span>(online first, May 2021) [<a target="_blank" href="/files/socialismtime.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1080/09639489.2021.1931076">Link to review in <span style="font-style: italic;">Modern and Contemporary France </span>(subscription only)</a>]
 	
-Richard Evans, <span style="font-style: italic;">Eric Hobsbawm: A Life in History</span> in <span style="font-style: italic;">International Affairs </span>(Vol. 95, No. 5, 2019)
-[<a target="_blank" href="/files/lifeinhistory.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/ia/iiz164">Link to review in <span style="font-style: italic;">International Affairs </span>(subscription only)</a>]
+Richard Evans, <span style="font-style: italic;">Eric Hobsbawm: A Life in History</span> in <span style="font-style: italic;">International Affairs </span>(Vol. 95, No. 5, 2019) [<a target="_blank" href="/files/lifeinhistory.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/ia/iiz164">Link to review in <span style="font-style: italic;">International Affairs </span>(subscription only)</a>]
 
-Christophe Guilluy, <span style="font-style: italic;">Twilight of the elites: prosperity, periphery and the future of France </span>in <span style="font-style: italic;">Modern and Contemporary France </span>(Vol. 27, No. 4, 2019)
-	[<a target="_blank" href="/files/guilluy.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1080/09639489.2019.1642313">Link to review in <span style="font-style: italic;">Modern and Contemporary France </span>(subscription only)</a>]
+Christophe Guilluy, <span style="font-style: italic;">Twilight of the elites: prosperity, periphery and the future of France </span>in <span style="font-style: italic;">Modern and Contemporary France </span>(Vol. 27, No. 4, 2019) [<a target="_blank" href="/files/guilluy.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1080/09639489.2019.1642313">Link to review in <span style="font-style: italic;">Modern and Contemporary France </span>(subscription only)</a>]
 
-Herrick Chapman, <span style="font-style: italic;">France’s Long Reconstruction: In Search of the Modern Republic</span> in <span style="font-style: italic;">French History </span>(Vol. 33, No. 1, 2019)
-[<a target="_blank" href="/files/longreconstruction.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/fh/crz027">Link to review in <span style="font-style: italic;">French History </span>(subscription only)</a>]
+Herrick Chapman, <span style="font-style: italic;">France’s Long Reconstruction: In Search of the Modern Republic</span> in <span style="font-style: italic;">French History </span>(Vol. 33, No. 1, 2019) [<a target="_blank" href="/files/longreconstruction.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/fh/crz027">Link to review in <span style="font-style: italic;">French History </span>(subscription only)</a>]
 
-Tim Rogan, <span style="font-style: italic;">The Moral Economists: R. H. Tawney, Karl Polanyi, E. P. Thompson, and the Critique of Capitalism</span> in <span style="font-style: italic;">Intellectual History Review </span>(Vol. 28, No. 1, 2019)<br />
-[<a target="_blank" href="/files/moraleconomists.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1080/17496977.2019.1533287">Link to review in <span style="font-style: italic;">Intellectual History Review </span>(subscription only)</a>]
+Tim Rogan, <span style="font-style: italic;">The Moral Economists: R. H. Tawney, Karl Polanyi, E. P. Thompson, and the Critique of Capitalism</span> in <span style="font-style: italic;">Intellectual History Review </span>(Vol. 28, No. 1, 2019) [<a target="_blank" href="/files/moraleconomists.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1080/17496977.2019.1533287">Link to review in <span style="font-style: italic;">Intellectual History Review </span>(subscription only)</a>]
 
-Stefanos Geroulanos, <span style="font-style: italic;">Transparency in Modern France</span> in <span style="font-style: italic;">H-France Forum </span>(Vol. 13, 2018)
-[<a target="_blank" href="https://www.h-france.net/forum/forumvol13/Chabal.pdf">Link to review in <span style="font-style: italic;">H-France Forum</span> (free)</a>] 
+Stefanos Geroulanos, <span style="font-style: italic;">Transparency in Modern France</span> in <span style="font-style: italic;">H-France Forum </span>(Vol. 13, 2018) [<a target="_blank" href="https://www.h-france.net/forum/forumvol13/Chabal.pdf">Link to review in <span style="font-style: italic;">H-France Forum</span> (free)</a>] 
 
-Jan-Werner M&uuml;ller, <span style="font-style: italic;">What Is Populism? </span>in <span style="font-style: italic;">Intellectual History Review </span>(Vol. 27, No. 4, 2017)
-[<a target="_blank" href="/files/populism.pdf">Link to review (free)</a>] [<a target="_blank" href="http://dx.doi.org/10.1080/17496977.2017.1348026">Link to review in <span style="font-style: italic;">Intellectual History Review </span>(subscription only)</a>] [<a target="_blank" href="http://www.ojoentinta.com/el-populismo-la-sombra-de-la-democracia/">Versi&oacute;n espa&ntilde;ola en la revista chilena <span style="font-style: italic;">Ojo en Tinta</span></a>]<br />
+Jan-Werner M&uuml;ller, <span style="font-style: italic;">What Is Populism? </span>in <span style="font-style: italic;">Intellectual History Review </span>(Vol. 27, No. 4, 2017) [<a target="_blank" href="/files/populism.pdf">Link to review (free)</a>] [<a target="_blank" href="http://dx.doi.org/10.1080/17496977.2017.1348026">Link to review in <span style="font-style: italic;">Intellectual History Review </span>(subscription only)</a>] [<a target="_blank" href="http://www.ojoentinta.com/el-populismo-la-sombra-de-la-democracia/">Versi&oacute;n espa&ntilde;ola en la revista chilena <span style="font-style: italic;">Ojo en Tinta</span></a>]<br />
 
-Gregory Mann, <span style="font-style: italic;">From Empires to NGOs in the West African Sahel: The Road to Nongovernmentality </span>in
-<span style="font-style: italic;">La Vie des Id&eacute;es/Books and Ideas </span>(February 2017)
-	[<a href="http://www.booksandideas.net/The-Sahel-In-What-State.html" target="_blank">Link to English version: 'The Sahel in what state?'</a>] [<a href="http://www.laviedesidees.fr/Le-Sahel-dans-quel-Etat.html" target="_blank">Version fran&ccedil;aise: 'Le Sahel dans quel &Eacute;tat?'</a>]
+Gregory Mann, <span style="font-style: italic;">From Empires to NGOs in the West African Sahel: The Road to Nongovernmentality </span>in <span style="font-style: italic;">La Vie des Id&eacute;es/Books and Ideas </span>(February 2017) [<a href="http://www.booksandideas.net/The-Sahel-In-What-State.html" target="_blank">Link to English version: 'The Sahel in what state?'</a>] [<a href="http://www.laviedesidees.fr/Le-Sahel-dans-quel-Etat.html" target="_blank">Version fran&ccedil;aise: 'Le Sahel dans quel &Eacute;tat?'</a>]
 
-Sung-Eun Choi, <span style="font-style: italic;">Decolonization and the French of Algeria: Bringing the Settler Colony Home </span>in <span style="font-style: italic;">H-France Review </span>(Vol. 16, No. 231, 2016)
-[<a target="_blank" href="http://www.h-france.net/vol16reviews/vol16no231Chabal.pdf">Link to review in <span style="font-style: italic;">H-France Review </span>(free)</a>]
+Sung-Eun Choi, <span style="font-style: italic;">Decolonization and the French of Algeria: Bringing the Settler Colony Home </span>in <span style="font-style: italic;">H-France Review </span>(Vol. 16, No. 231, 2016) [<a target="_blank" href="http://www.h-france.net/vol16reviews/vol16no231Chabal.pdf">Link to review in <span style="font-style: italic;">H-France Review </span>(free)</a>]
 
-Rebecca Clifford, <span style="font-style: italic;">Commemorating the Holocaust: The Dilemmas of Remembrance in France and Italy </span>in <span style="font-style: italic;">English Historical Review </span>(Vol. 132, No. 552, 2016)
-[<a target="_blank" href="/files/clifford.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/ehr/cew246">Link to review in<span style="font-style: italic;"> English Historical Review </span> (subscription only)</a>]<br />
+Rebecca Clifford, <span style="font-style: italic;">Commemorating the Holocaust: The Dilemmas of Remembrance in France and Italy </span>in <span style="font-style: italic;">English Historical Review </span>(Vol. 132, No. 552, 2016) [<a target="_blank" href="/files/clifford.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/ehr/cew246">Link to review in<span style="font-style: italic;"> English Historical Review </span> (subscription only)</a>]<br />
 
-Nicole Rudolph, <span style="font-style: italic;">At home in postwar France: modern mass housing and the right to comfort </span>in <span style="font-style: italic;">Modern and Contemporary France </span>(Vol. 24, No. 4, 2016)
-[<a target="_blank" href="/files/athomepostwarfrance.pdf">Link to review (free)</a>] [<a target="_blank" href="http://dx.doi.org/10.1080/09639489.2016.1209468">Link to review in <span style="font-style: italic;">Modern and Contemporary France </span>(subscription only)</a>]<br />
+Nicole Rudolph, <span style="font-style: italic;">At home in postwar France: modern mass housing and the right to comfort </span>in <span style="font-style: italic;">Modern and Contemporary France </span>(Vol. 24, No. 4, 2016) [<a target="_blank" href="/files/athomepostwarfrance.pdf">Link to review (free)</a>] [<a target="_blank" href="http://dx.doi.org/10.1080/09639489.2016.1209468">Link to review in <span style="font-style: italic;">Modern and Contemporary France </span>(subscription only)</a>]<br />
 
-Dieter Grimm, <span style="font-style: italic;">Sovereignty: The Origin and Future of a Political and Legal Concept </span>in <span style="font-style: italic;">New Global Studies </span>(Vol. 23, No. 3, 2015)
-[<a target="_blank" href="/filessovereignty.pdf">Link to review (free)</a>] [<a target="_blank" href="http://dx.doi.org/10.1515/ngs-2016-0006">Link to review in <span style="font-style: italic;">New Global Studies </span>(subscription only)</a>]
+Dieter Grimm, <span style="font-style: italic;">Sovereignty: The Origin and Future of a Political and Legal Concept </span>in <span style="font-style: italic;">New Global Studies </span>(Vol. 23, No. 3, 2015) [<a target="_blank" href="/filessovereignty.pdf">Link to review (free)</a>] [<a target="_blank" href="http://dx.doi.org/10.1515/ngs-2016-0006">Link to review in <span style="font-style: italic;">New Global Studies </span>(subscription only)</a>]
 	
 Ang&eacute;line Escafr&eacute;-Dublet, <span style="font-style: italic;">Culture et immigration:  de la question sociale &agrave; l'enjeu politique, 1958-2007 </span>in
-<span style="font-style: italic;">Modern and Contemporary France </span>(Vol. 23, No. 3, 2015)
-[<a target="_blank" href="/files/cultureetimmigration.pdf">Link to review (free)</a>] [<a target="_blank" href="http://dx.doi.org/10.1080/09639489.2015.1032914">Link to review in <span style="font-style: italic;">Modern and Contemporary France </span>(subscription only)</a>]
+<span style="font-style: italic;">Modern and Contemporary France </span>(Vol. 23, No. 3, 2015) [<a target="_blank" href="/files/cultureetimmigration.pdf">Link to review (free)</a>] [<a target="_blank" href="http://dx.doi.org/10.1080/09639489.2015.1032914">Link to review in <span style="font-style: italic;">Modern and Contemporary France </span>(subscription only)</a>]
 
-Maud Mandel, <span style="font-style: italic;">Muslims and Jews in France: History of a Conflict </span>in <span style="font-style: italic;">Journal of Modern Jewish Studies </span>(Vol. 14, No. 2, 2015)
-[<a target="_blank" href="/files/mandeljewsmuslims.pdf">Link to review (free)</a>] [<a target="_blank" href="http://www.tandfonline.com/doi/full/10.1080/14725886.2015.1041235">Link to review in <span style="font-style: italic;">Journal of Modern Jewish Studies </span>(subscription only)</a>]<br />
+Maud Mandel, <span style="font-style: italic;">Muslims and Jews in France: History of a Conflict </span>in <span style="font-style: italic;">Journal of Modern Jewish Studies </span>(Vol. 14, No. 2, 2015) [<a target="_blank" href="/files/mandeljewsmuslims.pdf">Link to review (free)</a>] [<a target="_blank" href="http://www.tandfonline.com/doi/full/10.1080/14725886.2015.1041235">Link to review in <span style="font-style: italic;">Journal of Modern Jewish Studies </span>(subscription only)</a>]
 
 Christophe Prochasson, Vincent Duclert and Edward Berenson (eds.), <span style="font-style: italic;">The French Republic: History, Values, Debates </span>in
-<span style="font-style: italic;"> English Historical Review </span>(Vol. 130, No. 543, 2015)
-[<a target="_blank" href="/files/prochasson.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/ehr/cev033">Link to review in<span style="font-style: italic;"> English Historical Review </span> (subscription only)</a>]<br />
+<span style="font-style: italic;"> English Historical Review </span>(Vol. 130, No. 543, 2015) [<a target="_blank" href="/files/prochasson.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/ehr/cev033">Link to review in<span style="font-style: italic;"> English Historical Review </span> (subscription only)</a>]<br />
 
-Chris Reynolds, <span style="font-style: italic;">Memories of May '68: France's Convenient Consensus </span>in <span style="font-style: italic;"> The Journal of Modern History </span>(Vol. 86, No. 4, 2014)
-[<a target="_blank" href="/files/chrisreynolds.pdf">Link to review (free)</a>] [<a target="_blank" href="http://www.jstor.org/stable/10.1086/678740">Link to review in <span style="font-style: italic;">The Journal of Modern History</span> (subscription only)</a>]<br />
+Chris Reynolds, <span style="font-style: italic;">Memories of May '68: France's Convenient Consensus </span>in <span style="font-style: italic;"> The Journal of Modern History </span>(Vol. 86, No. 4, 2014) [<a target="_blank" href="/files/chrisreynolds.pdf">Link to review (free)</a>] [<a target="_blank" href="http://www.jstor.org/stable/10.1086/678740">Link to review in <span style="font-style: italic;">The Journal of Modern History</span> (subscription only)</a>]<br />
 
-<big style="color: black;"></big><big style="color: black;">Amelia Lyons, <span style="font-style: italic;">The Civilizing Mission in the Metropole: Algerian Families and the Welfare State during Decolonization </span>in <span style="font-style: italic;"> H-France </span>(Vol. 14, No. 165, October 2014)
-[<a target="_blank" href="http://www.h-france.net/vol14reviews/vol14no165chabal.pdf">Link to review on the H-France website (free)</a>]
+	Amelia Lyons, <span style="font-style: italic;">The Civilizing Mission in the Metropole: Algerian Families and the Welfare State during Decolonization </span>in <span style="font-style: italic;"> H-France </span>(Vol. 14, No. 165, October 2014) [<a target="_blank" href="http://www.h-france.net/vol14reviews/vol14no165chabal.pdf">Link to review on the H-France website (free)</a>]
 
-<big style="color: black;">Andrew Sartori and Samuel Moyn (eds.), <span style="font-style: italic;">Global Intellectual History </span>in <span style="font-style: italic;">La Vie des Id&eacute;es/Books and Ideas </span>(October 2014)
-[<a href="http://www.booksandideas.net/Global-Thinking.html" target="_blank">Link to English version: 'Global thinking'</a>] [<a href="http://www.laviedesidees.fr/Penser-a-l-echelle-globale.html" target="_blank">Version fran&ccedil;aise: 'Penser &#224; l'&eacute;chelle globale'</a>]
+Andrew Sartori and Samuel Moyn (eds.), <span style="font-style: italic;">Global Intellectual History </span>in <span style="font-style: italic;">La Vie des Id&eacute;es/Books and Ideas </span>(October 2014) [<a href="http://www.booksandideas.net/Global-Thinking.html" target="_blank">Link to English version: 'Global thinking'</a>] [<a href="http://www.laviedesidees.fr/Penser-a-l-echelle-globale.html" target="_blank">Version fran&ccedil;aise: 'Penser &#224; l'&eacute;chelle globale'</a>]
 
-Alice Conklin, <span style="font-style: italic;">In the Museum of Man: Race, Anthropology and Empire in France, 1850-1950 </span>in <span style="font-style: italic;">Intellectual History Review </span>(Vol. 24, No. 4, 2014)
-[<a target="_blank" href="/files/inthemuseumofman.pdf">Link to review (free)</a>] [<a target="_blank" href="http://dx.doi.org/10.1080/17496977.2014.952929">Link to review in <span style="font-style: italic;">Intellectual History Review </span>(subscription only)</a>]
+Alice Conklin, <span style="font-style: italic;">In the Museum of Man: Race, Anthropology and Empire in France, 1850-1950 </span>in <span style="font-style: italic;">Intellectual History Review </span>(Vol. 24, No. 4, 2014) [<a target="_blank" href="/files/inthemuseumofman.pdf">Link to review (free)</a>] [<a target="_blank" href="http://dx.doi.org/10.1080/17496977.2014.952929">Link to review in <span style="font-style: italic;">Intellectual History Review </span>(subscription only)</a>]
 
-Barnett Singer, <span style="font-style: italic;">The Americanization of France: Searching for Happiness after the Algerian War </span>in <span style="font-style: italic;">French History </span>(Vol. 28, No. 3, 2014)
-[<a target="_blank" href="/files/singer.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/fh/cru068">Link to review in<span style="font-style: italic;"> French History </span> (subscription only)</a>]
+Barnett Singer, <span style="font-style: italic;">The Americanization of France: Searching for Happiness after the Algerian War </span>in <span style="font-style: italic;">French History </span>(Vol. 28, No. 3, 2014) [<a target="_blank" href="/files/singer.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/fh/cru068">Link to review in<span style="font-style: italic;"> French History </span> (subscription only)</a>]
 
-Jacques Julliard, <span style="font-style: italic;">Les gauches fran&ccedil;aises, 1762-2012. Histoire, politique, imaginaire </span>in <span style="font-style: italic;">French History </span>(Vol. 28, No. 2, 2014)
-[<a target="_blank" href="/files/julliard.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/fh/cru016">Link to review in<span style="font-style: italic;"> French History </span> (subscription only)</a>]<br />
+Jacques Julliard, <span style="font-style: italic;">Les gauches fran&ccedil;aises, 1762-2012. Histoire, politique, imaginaire </span>in <span style="font-style: italic;">French History </span>(Vol. 28, No. 2, 2014) [<a target="_blank" href="/files/julliard.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/fh/cru016">Link to review in<span style="font-style: italic;"> French History </span> (subscription only)</a>]
 
-Laurent Warlouzet, <span style="font-style: italic;">Le choix de la CEE par la France: l'Europe &eacute;conomique en d&eacute;bat de Mend&egrave;s-France &agrave; de Gaulle (1955-1969) </span>in <span style="font-style: italic;">English Historical Review </span>(Vol. 128, No. 535, 2013)
-[<a target="_blank" href="/files/warlouzet.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/ehr/cet258">Link to review in<span style="font-style: italic;"> English Historical Review </span> (subscription only)</a>]
+Laurent Warlouzet, <span style="font-style: italic;">Le choix de la CEE par la France: l'Europe &eacute;conomique en d&eacute;bat de Mend&egrave;s-France &agrave; de Gaulle (1955-1969) </span>in <span style="font-style: italic;">English Historical Review </span>(Vol. 128, No. 535, 2013) [<a target="_blank" href="/files/warlouzet.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/ehr/cet258">Link to review in<span style="font-style: italic;"> English Historical Review </span> (subscription only)</a>]
 	
-Edward Baring, <span style="font-style: italic;">The Young Derrida and French Philosophy, 1945-68 </span>in <span style="font-style: italic;">La Vie des Id&eacute;es/Books and Ideas </span>(July 2013)
-[<a href="http://www.booksandideas.net/Derrida-and-the-marginality-of-the.html" target="_blank">Link to English version: 'Derrida and the marginality of the French intellectual'</a>] [<a href="http://www.laviedesidees.fr/Derrida-un-intellectuel-marginal.html" target="_blank">Version fran&ccedil;aise: 'Derrida: un intellectuel marginal?'</a>]
+Edward Baring, <span style="font-style: italic;">The Young Derrida and French Philosophy, 1945-68 </span>in <span style="font-style: italic;">La Vie des Id&eacute;es/Books and Ideas </span>(July 2013) [<a href="http://www.booksandideas.net/Derrida-and-the-marginality-of-the.html" target="_blank">Link to English version: 'Derrida and the marginality of the French intellectual'</a>] [<a href="http://www.laviedesidees.fr/Derrida-un-intellectuel-marginal.html" target="_blank">Version fran&ccedil;aise: 'Derrida: un intellectuel marginal?'</a>]
 	
-Sudhir Hazareesingh, <span style="font-style: italic;">In the Shadow of the General: Modern France and the Myth of de Gaulle </span>in <span style="font-style: italic;">French History </span>(Vol. 27, No. 2, 2013)
-[<a target="_blank" href="/files/intheshadowofthegeneral.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/fh/crt014">Link to review in<span style="font-style: italic;"> French History </span> (subscription only)</a>]
+Sudhir Hazareesingh, <span style="font-style: italic;">In the Shadow of the General: Modern France and the Myth of de Gaulle </span>in <span style="font-style: italic;">French History </span>(Vol. 27, No. 2, 2013) [<a target="_blank" href="/files/intheshadowofthegeneral.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/fh/crt014">Link to review in<span style="font-style: italic;"> French History </span> (subscription only)</a>]
 
-Jeremy Jennings, <span style="font-style: italic;">Revolution and the Republic: A History of French Political Thought Since the Eighteenth Century </span>in <span style="font-style: italic;">La Vie des Id&eacute;es/Books and Ideas </span>(December 2012)
-[<a href="http://www.booksandideas.net/The-Politics-of-Disagreement.html" target="_blank">Link to English version: 'The Politics of Disagreement'</a>] [<a href="http://www.laviedesidees.fr/La-Republique-du-desaccord.html" target="_blank">Version fran&ccedil;aise: 'La R&eacute;publique du d&eacute;saccord'</a>]
+Jeremy Jennings, <span style="font-style: italic;">Revolution and the Republic: A History of French Political Thought Since the Eighteenth Century </span>in <span style="font-style: italic;">La Vie des Id&eacute;es/Books and Ideas </span>(December 2012) [<a href="http://www.booksandideas.net/The-Politics-of-Disagreement.html" target="_blank">Link to English version: 'The Politics of Disagreement'</a>] [<a href="http://www.laviedesidees.fr/La-Republique-du-desaccord.html" target="_blank">Version fran&ccedil;aise: 'La R&eacute;publique du d&eacute;saccord'</a>]
 
-Nicolas Bancel et al (eds.), <span style="font-style: italic;">Ruptures postcoloniales. Les nouveaux visages de la soci&eacute;t&eacute; fran&ccedil;aise </span>in <span style="font-style: italic;">French History </span>(Vol. 26, No. 4, 2012)
-[<a href="/files/rupturespostcoloniales.pdf" target="_blank">Link to review (free)</a>] [<a href="http://fh.oxfordjournals.org/content/26/4/591.full.pdf+html" target="_blank">Link to review in <span style="font-style: italic;">French History </span>(subscription only)</a>]
+Nicolas Bancel et al (eds.), <span style="font-style: italic;">Ruptures postcoloniales. Les nouveaux visages de la soci&eacute;t&eacute; fran&ccedil;aise </span>in <span style="font-style: italic;">French History </span>(Vol. 26, No. 4, 2012) [<a href="/files/rupturespostcoloniales.pdf" target="_blank">Link to review (free)</a>] [<a href="http://fh.oxfordjournals.org/content/26/4/591.full.pdf+html" target="_blank">Link to review in <span style="font-style: italic;">French History </span>(subscription only)</a>]
 	
-Serge Audier, <span style="font-style: italic;">N&eacute;o-lib&eacute;ralismes: une arch&eacute;ologie intellectuelle</span> in <span style="font-style: italic;">La Vie des Id&eacute;es/Books and Ideas</span> (July 2012)
-[<a href="http://www.booksandideas.net/The-Mid-Life-Crisis-of-Neo.html" target="_blank">Link to English version: 'The Mid-Life Crisis of Neo-Liberalism'</a>] [<a href="http://www.laviedesidees.fr/Le-neo-liberalisme-introuvable.html" target="_blank">Version fran&ccedil;aise: 'Le n&eacute;o-lib&eacute;ralisme introuvable?'</a>]
+Serge Audier, <span style="font-style: italic;">N&eacute;o-lib&eacute;ralismes: une arch&eacute;ologie intellectuelle</span> in <span style="font-style: italic;">La Vie des Id&eacute;es/Books and Ideas</span> (July 2012) [<a href="http://www.booksandideas.net/The-Mid-Life-Crisis-of-Neo.html" target="_blank">Link to English version: 'The Mid-Life Crisis of Neo-Liberalism'</a>] [<a href="http://www.laviedesidees.fr/Le-neo-liberalisme-introuvable.html" target="_blank">Version fran&ccedil;aise: 'Le n&eacute;o-lib&eacute;ralisme introuvable?'</a>]
 
 Between 2002 and 2010, I wrote reviews of contemporary fiction for the Pakistani current affairs magazine <span style="font-style: italic;">Newsline</span>. A small selection of these can be found online&nbsp;<a href="http://newslinemagazine.com/?s=emile+chabal" target="_blank">here</a>.
 	
