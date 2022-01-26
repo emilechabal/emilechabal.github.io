@@ -83,7 +83,7 @@ France, 1750-present</span>, eds. Philip Whalen &amp; Patrick Young (London: Blo
 
 ## Essays and long-form writing
 
-For short-form writing - including op-eds and blog posts - go to the <a href="/talks/">'press and media'<a/> section of this website.
+For short-form writing - including op-eds and blog posts - go to the '<a href="/talks/">press and media</a>' section of this website.
 
 <ul>
   <li><a target="_blank" href="https://www.jacobinmag.com/2021/04/eric-hobsbawm-marxism-history-bibliography">'Uncovering the many Eric Hobsbawms'</a> (co-authored with Anne Perez) in <span style="font-style: italic;">Jacobin</span> (27 April 2021)</li>
