@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: 
+title: "Scholarly publications"
 permalink: /publications/
 author_profile: true
 ---
-Books
+<h2>Books</h2>
 
 <h3><a target="_blank" href="/images/francecover.jpg"><img src="/images/francecover.jpg" title="Click here for larger image" alt="Cover image" style="float:right;width:200px;height:300px;margin:0px 0px 10px 10px"></a><span style="font-style: italic;">France </span>(Cambridge: Polity Press, 2020)</h3>
 
