@@ -3,7 +3,11 @@ title: "Recent talks"
 collection: talks
 type: "Talk"
 permalink: /talks/talk-locations
-venue: "Various"
+venue: "Curitiba, Brazil"
 date: 2012-03-01
-location: "Rio de Janeiro, Brazil", "Stockholm, Sweden", "Montpellier, France", "Curitiba, Brazil", "New York, NY, USA", "Burssels, Belgium", "St Andrews, Scotland", "Edinburgh, Scotland"
+location: "New York, NY, USA"
 ---
+
+location: "Brussels, Belgium"
+location: "St Andrews, Scotland"
+location: "Edinburgh, Scotland"

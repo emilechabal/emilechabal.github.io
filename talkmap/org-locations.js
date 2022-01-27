@@ -5,8 +5,13 @@ var addressPoints = [
     -0.1276474
   ],
   [
-    "Rio de Janeiro, Brazil",
-    -22.9110137,
-    -43.2093727
+    "New York, NY, USA",
+    40.7127281,
+    -74.0060152
+  ]
+  [
+  "Curitiba, Brazil"
+  -25.4295963
+  -49.2712724
   ]
 ];
