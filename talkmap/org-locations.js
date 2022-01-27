@@ -23,10 +23,5 @@ var addressPoints = [
     "Universidad Nacional de San Martin, Buenos Aires, Argentina"
     -25.4295963
     -49.2712724
-  ],
-  [
-  ""
-	-25.4295963
-	-49.2712724
-  ],
+  ]
 ];
