@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Books
 
-<h3><a target="_blank" href="/images/francecover.jpg"><img src="/images/francecover.jpg" title="Click here for larger image" alt="Cover image" style="float:right;width:200px;height:300px;margin:0px 0px 10px 10px"></a><span style="font-style: italic;">France </span>(Cambridge: Polity Press, 2020)</h3>
+<h3><a target="_blank" href="/images/francecover.jpg"><img src="/images/francecover.jpg" title="Click here for larger image" alt="Cover image" width="200" height="200" style="float:right;margin:0px 0px 10px 10px"></a><span style="font-style: italic;">France </span>(Cambridge: Polity Press, 2020)</h3>
 
 This book is an introduction to French history since 1940, organised around six thematic and chronological chapters. Starting from the idea that France is a "paradoxical" nation, it looks at a number of contradictions within recent French history, including the tension between defeat and resistance, state and citizen, and colonialism and anti-colonialism.
 
@@ -30,7 +30,7 @@ Contributors to this volume include: Pascal Perrineau, Jim Shields, Nick Hewlett
 
 You can <a href="http://www.bloomsbury.com/uk/france-since-the-1970s-9781472509772/" target="_blank">visit the website for the book</a> or <a href="http://dx.doi.org/10.5040/9781474210676" target="_blank">get online access to the e-book via Bloomsbury Collections</a>. You can also buy the book at <a target="_blank" href="http://www.amazon.co.uk/France-since-1970s-Bloomsbury/dp/1472509773">Amazon (UK)</a>, <a target="_blank" href="http://www.amazon.com/France-since-1970s-Politics-Uncertainty/dp/1472509773/">Amazon (USA)</a> and <a target="_blank" href="http://www.amazon.fr/France-Since-1970s-Politics-Uncertainty/dp/1472509773/">Amazon (France)</a>.
 
-<h3><a target="_blank" href="/images/francebritain.jpg"><img src="/images/francebritain.jpg" title="Click here for larger image" alt="Cover image" style="float:left;width:200px;height:300px;margin:0px 10px 10px 0px"></a><span style="font-style: italic;">Britain and France in Two World Wars: Truth, Myth and Memory </span>(London:&nbsp;Bloomsbury Academic, 2013) (co-edited with Robert Tombs)</h3>
+<h3><a target="_blank" href="/images/francebritain.jpg"><img src="/images/francebritain.jpg" title="Click here for larger image" alt="Cover image" style="float:left;width:200px;height:300px;margin:0px 10px 10px 0px"></a><span style="font-style: italic;">Britain and France in Two World Wars: Truth, Myth and Memory </span>(London: Bloomsbury Academic, 2013) (co-edited with Robert Tombs)</h3>
 
 France and Britain, indispensable allies in two world wars, remember and forget their shared history in contrasting ways. This book examines key episodes in the relationship between the two countries, including the outbreak of war in 1914, the battles of the Somme and Verdun, the Fall of France in 1940, Dunkirk, and British involvement in the French Resistance and the 1944 Liberation. The contributors discuss how the two countries tend to forget what they owe to each other, and have a distorted view of history which still colours and prejudices their relationship today, despite government efforts to build a close political and military partnership.
 
@@ -91,7 +91,7 @@ For short-form writing - including op-eds and blog posts - go to my <a href="/ta
    <li><a href="/files/europeaftersarkozy.pdf" target="_blank">'Europe after Sarkozy'</a> in <span style="font-style: italic;">Economic and Political Weekly</span> (2 June 2012)</li>
 </ul>
 
-<img src="/images/euroflag.jpg" alt="Britain and Europe" style="float:right;width:250px;height:152px;margin:0px 10px 10px 0px">In 2015, I co-wrote an essay with Stephan Malinowski on the idea of exceptionalism in British history and Britain's relation with Europe. This was published in a number of different outlets and languages:
+<img src="/images/euroflag.jpg" alt="Britain and Europe" width="100" height="100" style="float:right;margin:0px 10px 10px 0px">In 2015, I co-wrote an essay with Stephan Malinowski on the idea of exceptionalism in British history and Britain's relation with Europe. This was published in a number of different outlets and languages:
 <ul>
    <li>(English) <a href="http://www.booksandideas.net/Can-Britain-be-European.html" target="_blank">'Can Britain be European?'</a> in <span style="font-style: italic;">Books and Ideas</span> (22 June 2015)</li>
    <li>(Fran&ccedil;ais) <a href="http://www.laviedesidees.fr/La-Grande-Bretagne-peut-elle-etre-europeenne.html" target="_blank">'La Grande Bretagne peut-elle &ecirc;tre europ&eacute;enne?'</a> in <span style="font-style: italic;">La Vie des Id&eacute;es</span> (19 June 2015)</li>
