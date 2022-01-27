@@ -1,27 +1,22 @@
 var addressPoints = [
   [
-    "Institute of Historical Research, London, UK",
+    "Berkeley CA, USA",
+    37.8708393,
+    -122.2728638
+  ],
+  [
+    "London, UK",
     51.5073219,
-    -0.1276474
+    -0.1276473
   ],
   [
-    "Columbia University, New York, NY, USA",
-    40.7127281,
-    -74.0060152
+    "San Francisco, California",
+    37.7792808,
+    -122.4192362
   ],
   [
-    "Universidad Federal do Parana, Curitiba, Brazil"
-    -25.4295963
-    -49.2712724
-  ],
-  [
-    "CIDE, Mexico City, Mexico"
-    19.3748688
-    -99.2626256
-  ],
-  [
-    "Universidad Nacional de San Martin, Buenos Aires, Argentina"
-    -25.4295963
-    -49.2712724
+    "Los Angeles, CA",
+    34.0543942,
+    -118.2439408
   ]
 ];
