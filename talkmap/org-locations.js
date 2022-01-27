@@ -18,5 +18,10 @@ var addressPoints = [
     "Los Angeles, CA",
     34.0543942,
     -118.2439408
+  ],
+  [
+    "Universidad Federal do Parana, Curitiba, Brazil"
+    -25.4295963
+    -49.2712724
   ]
 ];
