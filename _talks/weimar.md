@@ -1,0 +1,9 @@
+---
+title: "Talk"
+collection: talks
+type: "Talk"
+permalink: /talks/weimar
+venue: "University"
+date: 2000-01-01
+location: "Weimar, Germany"
+---
