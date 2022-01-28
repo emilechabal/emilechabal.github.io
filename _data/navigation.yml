@@ -10,4 +10,7 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+  - title: "Talk map"
+    url: /talkmap.html
