@@ -6,9 +6,8 @@ author_profile: true
 ---
 ## Books
 <details>
-	<summary>Click to expand></summary>
+	<summary>Click here for more details.</summary>
 	
-	## Books
 <h3><a target="_blank" href="/images/francecover.jpg"><img src="/images/francecover.jpg" title="Click here for larger image" alt="Cover image" width="200" height="200" style="float:right;margin:0px 0px 10px 10px"></a><span style="font-style: italic;">France </span>(Cambridge: Polity Press, 2020)</h3>
 
 This book is an introduction to French history since 1940, organised around six thematic and chronological chapters. Starting from the idea that France is a "paradoxical" nation, it looks at a number of contradictions within recent French history, including the tension between defeat and resistance, state and citizen, and colonialism and anti-colonialism.
@@ -43,6 +42,8 @@ This is the <a href="http://www.bloomsbury.com/uk/britain-and-france-in-two-worl
 	</details>
 
 ## Articles and book chapters
+<details>
+	<summary>Click here for more details.</summary>
 
 'Big data, small concepts: histosophy as an approach to longue-dur&eacute;e history' in <span style="font-style: italic;">Global Intellectual History</span> (Vol. 6, No. 1, 2021) (co-authored with Luis de Miranda) [<a href="https://www.tandfonline.com/doi/full/10.1080/23801883.2019.1592871" target="_blank">Link to article in <span style="font-style: italic;">Global Intellectual History</span> (free, open access)</a>]
 
@@ -79,10 +80,14 @@ France, 1750-present</span>, eds. Philip Whalen &amp; Patrick Young (London: Blo
 'Ernest Renan' in <span style="font-style: italic;">The Encyclopedia of Political Theory, Vol. 3</span>, ed. M. Bevir (London: SAGE, 2010) [<a target="_blank" href="http://knowledge.sagepub.com/view/politicaltheory/n385.xml">Consult the entry online at SAGE&nbsp;(subscription only)</a>] <a href="http://www.amazon.co.uk/Encyclopedia-Political-Theory-Mark-Bevir/dp/1412958652" target="_blank">[Buy the book at Amazon (UK)</a>]
 
 'Uses and abuses of history: memories of the R&eacute;publique in late 20th century France' in <span style="font-style: italic;">Historicising the French Revolution</span>, eds. I. DiVanna, D. Dodds and T. Blanning (Newcastle: Cambridge Scholars Publishing, 2008) [<a target="_blank" href="http://www.cambridgescholars.com/historicising-the-french-revolution-20">Link to publisher's page</a>]<a href="http://www.amazon.co.uk/Historicising-French-Revolution-Carolina-Armenteros/dp/1847186408" target="_blank">] [Buy the book at Amazon (UK</a>)]
+	</details>
 
 ## Essays and long-form writing
-
+	
 For short-form writing - including op-eds and blog posts - go to my <a href="/talks/">press and media</a> page.
+
+<details>
+	<summary>Click here for more details.</summary>
 
 <ul>
   <li><a target="_blank" href="https://www.jacobinmag.com/2021/04/eric-hobsbawm-marxism-history-bibliography">'Uncovering the many Eric Hobsbawms'</a> (co-authored with Anne Perez) in <span style="font-style: italic;">Jacobin</span> (27 April 2021)</li>
@@ -101,9 +106,12 @@ For short-form writing - including op-eds and blog posts - go to my <a href="/ta
    <li>(Fran&ccedil;ais) <a href="http://www.laviedesidees.fr/La-Grande-Bretagne-peut-elle-etre-europeenne.html" target="_blank">'La Grande Bretagne peut-elle &ecirc;tre europ&eacute;enne?'</a> in <span style="font-style: italic;">La Vie des Id&eacute;es</span> (19 June 2015)</li>
    <li>(Deutsch) <a href="http://www.zeit.de/2015/29/grossbritannien-briten-europa-brexit-geschichte" target="_blank">'Ganz aparte Briten'</a> in <span style="font-style: italic;">Die Zeit</span> (16 July 2015) and <a href="/files/merkur.pdf" target="_blank">'Geh&ouml;rt Gro&szlig;britannien zu Europa?'</a> in <span style="font-style: italic;">Merkur</span> (No. 796, Sept 2015). There was further coverage of this debate in <a href="/files/spiegel.pdf" target="_blank"><span style="font-style: italic;">Der Spiegel</span></a> in June 2015.</li>
 </ul>
+	</details>
 
 ## Book reviews
-
+<details>
+	<summary>Click here for more details.</summary>
+	
 Antoine Vauchez and Pierre France, <span style="font-style: italic;">The Neoliberal Republic: Corporate Lawyers, Statecraft, and the
 Making of Public-Private France </span>in <span style="font-style: italic;">H-France Review </span>(Vol. 21, No. 181, 2021) [<a target="_blank" href="https://h-france.net/vol21reviews/vol21no181Chabal.pdf">Link to review in <span style="font-style: italic;">H-France Review</span> (free)</a>]
 
@@ -164,5 +172,6 @@ Nicolas Bancel et al (eds.), <span style="font-style: italic;">Ruptures postcolo
 Serge Audier, <span style="font-style: italic;">N&eacute;o-lib&eacute;ralismes: une arch&eacute;ologie intellectuelle</span> in <span style="font-style: italic;">La Vie des Id&eacute;es/Books and Ideas</span> (July 2012) [<a href="http://www.booksandideas.net/The-Mid-Life-Crisis-of-Neo.html" target="_blank">Link to English version: 'The Mid-Life Crisis of Neo-Liberalism'</a>] [<a href="http://www.laviedesidees.fr/Le-neo-liberalisme-introuvable.html" target="_blank">Version fran&ccedil;aise: 'Le n&eacute;o-lib&eacute;ralisme introuvable?'</a>]
 
 Between 2002 and 2010, I wrote reviews of contemporary fiction for the Pakistani current affairs magazine <span style="font-style: italic;">Newsline</span>. A small selection of these can be found online&nbsp;<a href="http://newslinemagazine.com/?s=emile+chabal" target="_blank">here</a>.
+	</details>
 	
 <div style="text-align: right;"><p style="font-size:0.5em">Last updated: 25 January 2022.</p></div>
