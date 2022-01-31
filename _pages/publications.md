@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## Books
-
+<details>
+	<summary>Click to expand></summary>
+	
+	## Books
 <h3><a target="_blank" href="/images/francecover.jpg"><img src="/images/francecover.jpg" title="Click here for larger image" alt="Cover image" width="200" height="200" style="float:right;margin:0px 0px 10px 10px"></a><span style="font-style: italic;">France </span>(Cambridge: Polity Press, 2020)</h3>
 
 This book is an introduction to French history since 1940, organised around six thematic and chronological chapters. Starting from the idea that France is a "paradoxical" nation, it looks at a number of contradictions within recent French history, including the tension between defeat and resistance, state and citizen, and colonialism and anti-colonialism.
@@ -37,6 +40,7 @@ France and Britain, indispensable allies in two world wars, remember and forget 
 Contributors to this volume include: Gary Sheffield, John Keiger, William Philpott, Elizabeth Greenhalgh, Akhila Yechury, Martin Alexander, Sebastien Albertelli, Olivier Wieviorka, Philip Bell, Jay Winter, Robert Frank and David Reynolds.
 
 This is the <a href="http://www.bloomsbury.com/uk/britain-and-france-in-two-world-wars-9781441130396/" target="_blank">link to the publisher's website</a>. You can also buy the book at <a target="_blank" href="http://www.amazon.co.uk/Britain-France-Two-World-Wars/dp/144113039X/">Amazon (UK)</a>, <a target="_blank" href="http://www.amazon.com/Britain-France-Two-World-Wars/dp/144113039X/">Amazon (USA)</a> and <a target="_blank" href="http://www.amazon.fr/Britain-France-Two-World-Wars/dp/144113039X/"> Amazon (France)</a>.
+	</details>
 
 ## Articles and book chapters
 
