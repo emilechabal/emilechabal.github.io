@@ -14,7 +14,7 @@ author_profile: true
 
 <p>You can hear me talk more about the book on the <a target="_blank" href="https://newbooksnetwork.com/france">New Books in French Studies podcast</a> with Roxanne Panchasi and at <a target="_blank" href="http://frenchhistorysociety.co.uk/blog/?p=2515">my online book launch event</a> at the Institute of Historical Research in London. There have also been two review forums on the book on the Tocqueville21 website (with contributions by <a target="_blank" href="https://tocqueville21.com/focus/paradoxes-of-france/">Art Goldhammer</a>, <a target="_blank" href="https://tocqueville21.com/focus/la-tache-de-lhistorien/">Emmanuel Jousse</a>, and a <a target="_blank" href="https://tocqueville21.com/focus/lembarras-du-choix/">response by me</a>) and in the journal <a target="_blank" href="https://www.tandfonline.com/toc/cmcf20/29/3"><span style="font-style: italic;">Modern and Contemporary France</span></a> (with contributions by Minayo Nasiali, David Lees, and Evan Spritzer).</p>
 
-<p>You can buy the book <a href="https://politybooks.com/bookdetail/?isbn=9781509530014" target="_blank">directly from the publisher</a> or at <a target="_blank" href="https://www.amazon.co.uk/France-Polity-Histories-Emile-Chabal/dp/1509530029/">Amazon (UK)</a>, <a target="_blank" href="https://www.amazon.com/France-Polity-Histories-Emile-Chabal/dp/1509530029/">Amazon (USA)</a> and <a target="_blank" href="https://www.amazon.fr/France-Polity-Histories-Emile-Chabal/dp/1509530029/"> Amazon (France)</a>./<p>
+<p>You can buy the book <a href="https://politybooks.com/bookdetail/?isbn=9781509530014" target="_blank">directly from the publisher</a> or at <a target="_blank" href="https://www.amazon.co.uk/France-Polity-Histories-Emile-Chabal/dp/1509530029/">Amazon (UK)</a>, <a target="_blank" href="https://www.amazon.com/France-Polity-Histories-Emile-Chabal/dp/1509530029/">Amazon (USA)</a> and <a target="_blank" href="https://www.amazon.fr/France-Polity-Histories-Emile-Chabal/dp/1509530029/"> Amazon (France)</a>.</p>
 
 <h3><a target="_blank" href="/images/divrep.jpg"><img src="/images/divrep.jpg" alt="Cover image" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">A Divided Republic: nation, state and citizenship in contemporary France </span>(Cambridge: Cambridge University Press, 2015)</h3>
 
@@ -40,7 +40,7 @@ author_profile: true
 
 <p>This is the <a href="http://www.bloomsbury.com/uk/britain-and-france-in-two-world-wars-9781441130396/" target="_blank">link to the publisher's website</a>. You can also buy the book at <a target="_blank" href="http://www.amazon.co.uk/Britain-France-Two-World-Wars/dp/144113039X/">Amazon (UK)</a>, <a target="_blank" href="http://www.amazon.com/Britain-France-Two-World-Wars/dp/144113039X/">Amazon (USA)</a> and <a target="_blank" href="http://www.amazon.fr/Britain-France-Two-World-Wars/dp/144113039X/"> Amazon (France)</a>.</p>
 	</details>
-	
+
 ## Articles and book chapters
 <details>
 	<summary>Click here for more details.</summary>
