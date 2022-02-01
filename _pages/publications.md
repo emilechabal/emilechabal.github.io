@@ -39,6 +39,7 @@ author_profile: true
 <p>Contributors to this volume include: Gary Sheffield, John Keiger, William Philpott, Elizabeth Greenhalgh, Akhila Yechury, Martin Alexander, Sebastien Albertelli, Olivier Wieviorka, Philip Bell, Jay Winter, Robert Frank and David Reynolds.</p>
 
 <p>This is the <a href="http://www.bloomsbury.com/uk/britain-and-france-in-two-world-wars-9781441130396/" target="_blank">link to the publisher's website</a>. You can also buy the book at <a target="_blank" href="http://www.amazon.co.uk/Britain-France-Two-World-Wars/dp/144113039X/">Amazon (UK)</a>, <a target="_blank" href="http://www.amazon.com/Britain-France-Two-World-Wars/dp/144113039X/">Amazon (USA)</a> and <a target="_blank" href="http://www.amazon.fr/Britain-France-Two-World-Wars/dp/144113039X/"> Amazon (France)</a>.</p>
+
 	</details>
 
 ## Articles and book chapters
@@ -64,6 +65,7 @@ author_profile: true
 	<li>'Ernest Renan' in <span style="font-style: italic;">The Encyclopedia of Political Theory, Vol. 3</span>, ed. M. Bevir (London: SAGE, 2010) [<a target="_blank" href="http://knowledge.sagepub.com/view/politicaltheory/n385.xml">Consult the entry online at SAGE&nbsp;(subscription only)</a>] <a href="http://www.amazon.co.uk/Encyclopedia-Political-Theory-Mark-Bevir/dp/1412958652" target="_blank">[Buy the book at Amazon (UK)</a>]</li>
 	<li>'Uses and abuses of history: memories of the R&eacute;publique in late 20th century France' in <span style="font-style: italic;">Historicising the French Revolution</span>, eds. I. DiVanna, D. Dodds and T. Blanning (Newcastle: Cambridge Scholars Publishing, 2008) [<a target="_blank" href="http://www.cambridgescholars.com/historicising-the-french-revolution-20">Link to publisher's page</a>]<a href="http://www.amazon.co.uk/Historicising-French-Revolution-Carolina-Armenteros/dp/1847186408" target="_blank">] [Buy the book at Amazon (UK</a>)]</li>
 	</ul>
+	
 	</details>
 
 ## Essays and long-form writing
@@ -90,6 +92,7 @@ For short-form writing - including op-eds and blog posts - go to my <a href="/ta
    <li>(Fran&ccedil;ais) <a href="http://www.laviedesidees.fr/La-Grande-Bretagne-peut-elle-etre-europeenne.html" target="_blank">'La Grande Bretagne peut-elle &ecirc;tre europ&eacute;enne?'</a> in <span style="font-style: italic;">La Vie des Id&eacute;es</span> (19 June 2015)</li>
    <li>(Deutsch) <a href="http://www.zeit.de/2015/29/grossbritannien-briten-europa-brexit-geschichte" target="_blank">'Ganz aparte Briten'</a> in <span style="font-style: italic;">Die Zeit</span> (16 July 2015) and <a href="/files/merkur.pdf" target="_blank">'Geh&ouml;rt Gro&szlig;britannien zu Europa?'</a> in <span style="font-style: italic;">Merkur</span> (No. 796, Sept 2015). There was further coverage of this debate in <a href="/files/spiegel.pdf" target="_blank"><span style="font-style: italic;">Der Spiegel</span></a> in June 2015.</li>
 </ul>
+
 	</details>
 
 ## Book reviews
@@ -98,8 +101,8 @@ For short-form writing - including op-eds and blog posts - go to my <a href="/ta
 
 	<ul>
 	<li>Antoine Vauchez and Pierre France, <span style="font-style: italic;">The Neoliberal Republic: Corporate Lawyers, Statecraft, and the
-Making of Public-Private France </span>in <span style="font-style: italic;">H-France Review </span>(Vol. 21, No. 181, 2021) [<a target="_blank" href="https://h-france.net/vol21reviews/vol21no181Chabal.pdf">Link to review in <span style="font-style: italic;">H-France Review</span> (free)</a>]</li>
-		<li>Jacob Collins, <span style="font-style: italic;">The Anthropological Turn: French Political Thought After 1968 </span>in <span style="font-style: italic;">H-France Review </span>(Vol. 21, No. 67, 2021) [<a target="_blank" href="https://h-france.net/vol21reviews/vol21no67chabal.pdf">Link to review in <span style="font-style: italic;">H-France Review</span> (free)</a>]</li>
+	Making of Public-Private France </span>in <span style="font-style: italic;">H-France Review </span>(Vol. 21, No. 181, 2021) [<a target="_blank" href="https://h-france.net/vol21reviews/vol21no181Chabal.pdf">Link to review in <span style="font-style: italic;">H-France Review</span> (free)</a>]</li>
+	<li>Jacob Collins, <span style="font-style: italic;">The Anthropological Turn: French Political Thought After 1968 </span>in <span style="font-style: italic;">H-France Review </span>(Vol. 21, No. 67, 2021) [<a target="_blank" href="https://h-france.net/vol21reviews/vol21no67chabal.pdf">Link to review in <span style="font-style: italic;">H-France Review</span> (free)</a>]</li>
 	<li>Socialism and the experience of time: idealism and the present in modern France</span> in <span style="font-style: italic;">Modern and Contemporary France</span> (Vol. 21, No. 4, 2021) [<a target="_blank" href="/files/socialismtime.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1080/09639489.2021.1931076">Link to review in <span style="font-style: italic;">Modern and Contemporary France </span>(subscription only)</a>]</li>
 	<li>Richard Evans, <span style="font-style: italic;">Eric Hobsbawm: A Life in History</span> in <span style="font-style: italic;">International Affairs </span>(Vol. 95, No. 5, 2019) [<a target="_blank" href="/files/lifeinhistory.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/ia/iiz164">Link to review in <span style="font-style: italic;">International Affairs </span>(subscription only)</a>]</li>
 	<li>Christophe Guilluy, <span style="font-style: italic;">Twilight of the elites: prosperity, periphery and the future of France </span>in <span style="font-style: italic;">Modern and Contemporary France </span>(Vol. 27, No. 4, 2019) [<a target="_blank" href="/files/guilluy.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1080/09639489.2019.1642313">Link to review in <span style="font-style: italic;">Modern and Contemporary France </span>(subscription only)</a>]</li>
@@ -130,4 +133,5 @@ Making of Public-Private France </span>in <span style="font-style: italic;">H-Fr
 	</ul>
 
 Between 2002 and 2010, I wrote reviews of contemporary fiction for the Pakistani current affairs magazine <span style="font-style: italic;">Newsline</span>. A small selection of these can be found online&nbsp;<a href="http://newslinemagazine.com/?s=emile+chabal" target="_blank">here</a>.
+
 	</details>
