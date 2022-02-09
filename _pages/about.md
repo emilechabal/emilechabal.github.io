@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/teaching.jpg" alt="Teaching" width="450" height="450" style="float:right;margin:5px 0px 10px 10px">I am a historian of twentieth-century European political and intellectual life.
+<img src="/images/teaching.jpg" alt="Teaching" alt="Emile teaching a class" width="450" height="450" style="float:right;margin:5px 0px 10px 10px">I am a historian of twentieth-century European political and intellectual life.
 
 I was educated at Cambridge, Rice University, Harvard University and the École Normale Supérieure, Paris. I completed my PhD at Cambridge and my thesis was subsequently awarded the History Faculty's Prince Consort and Thirlwall Prize, and Seeley Medal for the best dissertation across all periods.
 
