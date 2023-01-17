@@ -102,6 +102,7 @@ For short-form writing - including op-eds and blog posts - go to my <a href="/ta
 	<summary>Click here for more details.</summary>
 
 	<ul>
+	<li>Jean-Philippe Mathy, <span style="font-style: italic;">Chronic Aftershock: How 9/11 Shaped Present-Day France</span> in <span style="font-style: italic;">H-France Forum </span>(Vol. 18, 2023) [<a target="_blank" href="https://h-france.net/wp-content/uploads/2023/01/Mathy2.pdf">Link to review in <span style="font-style: italic;">H-France Forum</span> (free)</a>]</li>
 	<li>Terence Renaud, <span style="font-style: italic;">New lefts: the making of a radical tradition</span> in <span style="font-style: italic;">Intellectual History Review </span>(2022) [<a target="_blank" href="/files/newlefts.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1080/17496977.2022.2088926">Link to review in <span style="font-style: italic;">Intellectual History Review </span>(subscription only)</a>]</li>
 	<li>Antoine Vauchez and Pierre France, <span style="font-style: italic;">The Neoliberal Republic: Corporate Lawyers, Statecraft, and the
 	Making of Public-Private France </span>in <span style="font-style: italic;">H-France Review </span>(Vol. 21, No. 181, 2021) [<a target="_blank" href="https://h-france.net/vol21reviews/vol21no181Chabal.pdf">Link to review in <span style="font-style: italic;">H-France Review</span> (free)</a>]</li>
