@@ -100,7 +100,7 @@ For short-form writing - including op-eds and blog posts - go to my <a href="/ta
    <li><a href="/files/europeaftersarkozy.pdf" target="_blank">'Europe after Sarkozy'</a> in <span style="font-style: italic;">Economic and Political Weekly</span> (2 June 2012)</li>
 </ul>
 
-<img src="/images/euroflag.jpg" alt="British and European flags at a crossroads" width="200" height="200" style="float:right;margin:0px 10px 10px 0px">In 2015, I co-wrote an essay with Stephan Malinowski on the idea of exceptionalism in British history and Britain's relation with Europe. This was published in a number of different outlets and languages:
+<img src="/images/euroflag.jpg" alt="British and European flags at a crossroads" width="200" height="200" style="float:right;margin:0px 10px 10px 5px">In 2015, I co-wrote an essay with Stephan Malinowski on the idea of exceptionalism in British history and Britain's relation with Europe. This was published in a number of different outlets and languages:
 <ul>
    <li>(English) <a href="http://www.booksandideas.net/Can-Britain-be-European.html" target="_blank">'Can Britain be European?'</a> in <span style="font-style: italic;">Books and Ideas</span> (22 June 2015)</li>
    <li>(Fran&ccedil;ais) <a href="http://www.laviedesidees.fr/La-Grande-Bretagne-peut-elle-etre-europeenne.html" target="_blank">'La Grande Bretagne peut-elle &ecirc;tre europ&eacute;enne?'</a> in <span style="font-style: italic;">La Vie des Id&eacute;es</span> (19 June 2015)</li>
