@@ -86,6 +86,7 @@ For short-form writing - including op-eds and blog posts - go to my <a href="/ta
 	<summary>Click here for more details.</summary>
 	
 <ul>
+  <li><a target="_blank" href="https://doi.org/10.1080/09639489.2024.2381787">'Le deluge: France's 2024 legislative elections'</a> (co-authored with Michael C. Behrent) in <span style="font-style: italic;">Modern & Contemporary France</span> (9 August 2024, open access)</li>
   <li><a target="_blank" href="/files/ramdanistangler.pdf">'Le French-bashing'</a> (on Nabila Ramdani and Cole Stangler's recent books on contemporary French society) in the <span style="font-style: italic;">Times Literary Supplement</span> (7 February 2024)</li>
   <li><a target="_blank" href="/files/histoiredelarue.pdf">'Pavement politics'</a> (on Danielle Tartakowsky's collective volume on the history of the street) in the <span style="font-style: italic;">Times Literary Supplement</span> (14 April 2023)</li>
   <li><a target="_blank" href="https://doi.org/10.1093/fh/crac070">'Historical perspectives on the 2022 French electoral cycle'</a> (co-authored with Michael C. Behrent & Marion Van Renterghem) in <span style="font-style: italic;">French History</span> (27 February 2023, open access)</li>
