@@ -86,6 +86,7 @@ For short-form writing - including op-eds and blog posts - go to my <a href="/ta
 	<summary>Click here for more details.</summary>
 	
 <ul>
+  <li><a target="_blank" href="https://jacobin.com/2025/02/jean-marie-le-pen-france">'Jean-Marie Le Pen Got the Last Laugh'</a> in <span style="font-style: italic;">Jacobin</span> (13 February 2025)</li>
   <li><a target="_blank" href="https://doi.org/10.1080/09639489.2024.2381787">'The deluge: France's 2024 legislative elections'</a> (co-authored with Michael C. Behrent) in <span style="font-style: italic;">Modern & Contemporary France</span> (9 August 2024, open access)</li>
   <li><a target="_blank" href="/files/ramdanistangler.pdf">'Le French-bashing'</a> (on Nabila Ramdani and Cole Stangler's recent books on contemporary French society) in the <span style="font-style: italic;">Times Literary Supplement</span> (7 February 2024)</li>
   <li><a target="_blank" href="/files/histoiredelarue.pdf">'Pavement politics'</a> (on Danielle Tartakowsky's collective volume on the history of the street) in the <span style="font-style: italic;">Times Literary Supplement</span> (14 April 2023)</li>
