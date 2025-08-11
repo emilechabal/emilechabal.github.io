@@ -86,6 +86,7 @@ For short-form writing - including op-eds and blog posts - go to my <a href="/ta
 	<summary>Click here for more details.</summary>
 	
 <ul>
+  <li><a target="_blank" href="/files/mistral.pdf">'A chill wind that blows good'</a> (on Catherine Dunlop's history of the mistral wind) in the <span style="font-style: italic;">Times Literary Supplement</span> (1 August 2025)</li>
   <li><a target="_blank" href="https://jacobin.com/2025/02/jean-marie-le-pen-france">'Jean-Marie Le Pen Got the Last Laugh'</a> in <span style="font-style: italic;">Jacobin</span> (13 February 2025)</li>
   <li><a target="_blank" href="https://doi.org/10.1080/09639489.2024.2381787">'The deluge: France's 2024 legislative elections'</a> (co-authored with Michael C. Behrent) in <span style="font-style: italic;">Modern & Contemporary France</span> (9 August 2024, open access)</li>
   <li><a target="_blank" href="/files/ramdanistangler.pdf">'Le French-bashing'</a> (on Nabila Ramdani and Cole Stangler's recent books on contemporary French society) in the <span style="font-style: italic;">Times Literary Supplement</span> (7 February 2024)</li>
@@ -116,6 +117,7 @@ For short-form writing - including op-eds and blog posts - go to my <a href="/ta
 	<summary>Click here for more details.</summary>
 
 	<ul>
+	<li>Gino Raymond, <span style="font-style: italic;">France Since the Liberation: Between Exceptionalism and Convergence</span> in <span style="font-style: italic;">H-France Review </span>(Vol. 25, June 2025) [<a target="_blank" href="https://h-france.net/vol25reviews/vol25no45Chabal.pdf">Link to review in <span style="font-style: italic;">H-France Forum</span> (free)</a>]</li>
 	<li>Jean-Philippe Mathy, <span style="font-style: italic;">Chronic Aftershock: How 9/11 Shaped Present-Day France</span> in <span style="font-style: italic;">H-France Forum </span>(Vol. 18, 2023) [<a target="_blank" href="https://h-france.net/wp-content/uploads/2023/01/Mathy2.pdf">Link to review in <span style="font-style: italic;">H-France Forum</span> (free)</a>]</li>
 	<li>Nimisha Barton, <span style="font-style: italic;">Reproductive Citizens: Gender, Immigration, and the State in Modern France, 1880–1945 </span>in <span style="font-style: italic;">American Historical Review </span>(Vol. 127, No. 4, 2022) [<a target="_blank" href="/files/bartoncitizens.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1093/ahr/rhac383">Link to review in<span style="font-style: italic;"> American Historical Review </span> (subscription only)</a>]</li>
 	<li>Terence Renaud, <span style="font-style: italic;">New lefts: the making of a radical tradition</span> in <span style="font-style: italic;">Intellectual History Review </span>(2022) [<a target="_blank" href="/files/newlefts.pdf">Link to review (free)</a>] [<a target="_blank" href="https://doi.org/10.1080/17496977.2022.2088926">Link to review in <span style="font-style: italic;">Intellectual History Review </span>(subscription only)</a>]</li>
