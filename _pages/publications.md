@@ -79,9 +79,6 @@ author_profile: true
 	</details>
 
 ## Essays and long-form writing
-	
-For short-form writing - including op-eds and blog posts - go to my <a href="/talks/">press and media</a> page.
-
 <details>
 	<summary>Click here for more details.</summary>
 	
@@ -111,6 +108,8 @@ For short-form writing - including op-eds and blog posts - go to my <a href="/ta
 </ul>
 
 	</details>
+	
+For short-form writing - including op-eds and blog posts - go to my <a href="/talks/">press and media</a> page.
 
 ## Book reviews
 <details>
