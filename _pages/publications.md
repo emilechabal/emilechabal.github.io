@@ -10,7 +10,9 @@ author_profile: true
 	
 <h3><a target="_blank" href="/images/paradoxefrancaiscover.jpg"><img src="/images/paradoxefrancaiscover.jpg" alt="Cover image for 'Le paradoxe français'" title="Click here for larger image" width="200" height="200" style="float:right;margin:0px 0px 10px 10px" ></a><span style="font-style: italic;">Le paradoxe français : une nouvelle histoire de la France contemporaine </span>(Markus Haller, 2025)</h3>
 
-<p>Dans cette traduction remaniée et mise à jour du livre que j’ai publié avec Polity, je présente une interprétation novatrice de l'histoire contemporaine de la France. Plutôt que de présenter la France comme une nation unifiée, je m'attarde sur les tensions, les déceptions et les divisions qui caractérisent le présent des Français. De la défaite calamiteuse face aux armées hitlériennes en 1940 jusqu’aux spectaculaires manifestations des gilets jaunes, j'explore les contradictions qui ont façonné l’histoire de la France au cours des quatre-vingts dernières années. Il ressort de cet analyse l’image d’une nation qui s’efforce de concilier ses valeurs politiques fondamentales avec les réalités d’une société diversifiée.</p>
+<p>Dans cette traduction remaniée et mise à jour du livre que j’ai publié avec Polity, je présente une interprétation novatrice de l'histoire contemporaine de la France. Plutôt que de présenter la France comme une nation unifiée, je m'attarde sur les tensions, les déceptions et les divisions qui caractérisent le présent des Français.</p>
+
+<p>De la défaite calamiteuse face aux armées hitlériennes en 1940 jusqu’aux spectaculaires manifestations des gilets jaunes, j'explore les contradictions qui ont façonné l’histoire de la France au cours des quatre-vingts dernières années. Il ressort de cet analyse l’image d’une nation qui s’efforce de concilier ses valeurs politiques fondamentales avec les réalités d’une société diversifiée.</p>
 
 <p>Le livre est disponible en librairie ou en suivant un des nombreux liens vers des librairies en ligne sur <a href="https://www.markushaller.com/livre/id/63/Emile+Chabal%2C+Le+paradoxe+fran%C3%A7ais" target="_blank">le site de l'éditeur</a>.</p>
 
