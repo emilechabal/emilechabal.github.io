@@ -88,6 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=GgpLOLEAAAAJ"
   email            : "emile.chabal@ed.ac.uk"
+  bluesky          : "https://bsky.app/profile/emile-chabal.bsky.social"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bluesky          : "https://bsky.app/profile/emile-chabal.bsky.social"
 
 
 # Reading Files
