@@ -8,9 +8,7 @@ author_profile: true
 <details>
 	<summary>Click here for more details.</summary>
 	
-<h3><span style="font-style: italic;">Age of Hobsbawm: The Life of A Revolutionary Historian </span>(Harvard University Press, 2026)</h3>
-
-<a target="_blank" href="/files/ageofhobsbawm.pdf"><img src="/images/ageofhobsbawm.jpeg" alt="Cover image for 'Age of Hobsbawm'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a>
+<a target="_blank" href="/files/ageofhobsbawm.pdf"><img src="/images/ageofhobsbawm.jpeg" alt="Cover image for 'Age of Hobsbawm'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ><h3></a><span style="font-style: italic;">Age of Hobsbawm: The Life of A Revolutionary Historian </span>(Harvard University Press, 2026)</h3>
 
 <p>Eric Hobsbawm (1917–2012) was one of the foremost European intellectuals of the twentieth century. He published hundreds of articles on modern history and culture, and his books became canonical works and bestsellers on both sides of the Atlantic. His crystal-clear writing, vast erudition, and ability to make his Marxist analysis digestible to a wide audience brought him worldwide renown.</p>
 
@@ -42,7 +40,7 @@ author_profile: true
 
 <p>You can hear me talk more about the book on the <a target="_blank" href="https://newbooksnetwork.com/france">New Books in French Studies podcast</a> with Roxanne Panchasi and at <a target="_blank" href="http://frenchhistorysociety.co.uk/blog/?p=2515">my online book launch event</a> at the Institute of Historical Research in London. There have also been two review forums on the book on the Tocqueville21 website (with contributions by <a target="_blank" href="https://tocqueville21.com/focus/paradoxes-of-france/">Art Goldhammer</a>, <a target="_blank" href="https://tocqueville21.com/focus/la-tache-de-lhistorien/">Emmanuel Jousse</a>, and a <a target="_blank" href="https://tocqueville21.com/focus/lembarras-du-choix/">response by me</a>) and in the journal <a target="_blank" href="https://www.tandfonline.com/toc/cmcf20/29/3"><span style="font-style: italic;">Modern and Contemporary France</span></a> (with contributions by Minayo Nasiali, David Lees, and Evan Spritzer).</p>
 
-<p>You can buy the book <a href="https://politybooks.com/bookdetail/?isbn=9781509530014" target="_blank">directly from the publisher</a>, from <a target="_blank" https://mybook.to/G2Ay">Amazon</a>, or from your local bookstore. A <a target="_blank" href="https://liberus.com.tr/kitap/fransa/">Turkish translation of the book</a> appeared with Liberus in 2025. For details of the revised French translation of the book, see above.</p>
+<p>You can buy the book <a href="https://politybooks.com/bookdetail/?isbn=9781509530014" target="_blank">directly from the publisher</a>, from <a target="_blank" href="https://mybook.to/G2Ay">Amazon</a>, or from your local bookstore. A <a target="_blank" href="https://liberus.com.tr/kitap/fransa/">Turkish translation of the book</a> appeared with Liberus in 2025. For details of the revised French translation of the book, see above.</p>
 
 <h3><a target="_blank" href="/images/divrep.jpg"><img src="/images/divrep.jpg" alt="Cover image for 'A Divided Republic'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">A Divided Republic: nation, state and citizenship in contemporary France </span>(Cambridge University Press, 2015)</h3>
 
