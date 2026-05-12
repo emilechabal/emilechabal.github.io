@@ -16,7 +16,7 @@ author_profile: true
 
 <p>Going well beyond the Ages series of modern history books for which he is best known, this book offers the first substantial interpretation of Hobsbawm’s entire body of writing. It also provides a trove of unique insights into the generations of Marxist writers with whom Hobsbawm was in conversation and whose work continues to shape political debates globally.</p>
 
-<p>You can buy the book directly from <a href="https://www.hup.harvard.edu/books/9780674737761" target="_blank">the publisher</a>, from <a href="https://mybook.to/VSMtLt" target="_blank">Amazon</a>, or from your local bookstore.</p>
+<p><span style="font-style: italic;">You can buy the book directly from <a href="https://www.hup.harvard.edu/books/9780674737761" target="_blank">the publisher</a>, from <a href="https://mybook.to/VSMtLt" target="_blank">Amazon</a>, or from your local bookstore.</span></p>
 
 <h2><a target="_blank" href="/images/paradoxefrancaiscover.jpg"><img src="/images/paradoxefrancaiscover.jpg" alt="Cover image for 'Le paradoxe français'" title="Click here for larger image" width="200" height="200" style="float:right;margin:0px 0px 10px 10px" ></a><span style="font-style: italic;">Le paradoxe français : une nouvelle histoire de la France contemporaine </span>(Markus Haller, 2025)</h2>
 
@@ -24,7 +24,7 @@ author_profile: true
 
 <p>De la défaite calamiteuse face aux armées hitlériennes en 1940 jusqu’aux spectaculaires manifestations des gilets jaunes, j'explore les contradictions qui ont façonné l’histoire de la France au cours des quatre-vingts dernières années. Il ressort de cette analyse l’image d’une nation qui s’efforce de concilier ses valeurs politiques fondamentales avec les réalités d’une société diversifiée.</p>
 
-<p>Le livre est disponible en librairie ou en suivant un des nombreux liens vers des librairies en ligne sur <a href="https://www.markushaller.com/livre/id/63/Emile+Chabal%2C+Le+paradoxe+fran%C3%A7ais" target="_blank">le site de l'éditeur</a>. J'ai également présenté quelques arguments du livre dans un entretien dans <a target="_blank" href="/files/expressinterviewoct2025.pdf"><span style="font-style: italic;">L'Express</span></a> en octobre 2025.</p>
+<p><span style="font-style: italic;">Le livre est disponible en librairie ou en suivant un des nombreux liens vers des librairies en ligne sur <a href="https://www.markushaller.com/livre/id/63/Emile+Chabal%2C+Le+paradoxe+fran%C3%A7ais" target="_blank">le site de l'éditeur</a>. J'ai également présenté quelques arguments du livre dans un entretien dans <a target="_blank" href="/files/expressinterviewoct2025.pdf"><span style="font-style: italic;">L'Express</span></a> en octobre 2025.</span></p>
 
 <h2><a target="_blank" href="/images/statesofignorance.jpg"><img src="/images/statesofignorance.jpg" alt="Cover image for 'States of Ignorance'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">States of Ignorance: Governing Irregular Migrants in Western Europe </span>(Cambridge University Press, 2023) (co-edited with Christina Boswell)</h2>
 
@@ -34,23 +34,21 @@ author_profile: true
 
 <p>Our findings upend dominant approaches, which tend to assume that states are preoccupied with producing knowledge about their populations. We argue, instead, that states have actually been keen to sustain ignorance about their unauthorised populations.</p>
 
-<p>You can <a href="https://doi.org/10.1017/9781009410199" target="_blank">get online access to the e-book via Cambridge Core</a>. The book is also available at <a target="_blank" href="https://mybook.to/ApaDCP">Amazon</a> and most other international booksellers.</p>
+<p><span style="font-style: italic;">You can <a href="https://doi.org/10.1017/9781009410199" target="_blank">get online access to the e-book via Cambridge Core</a>. The book is also available at <a target="_blank" href="https://mybook.to/ApaDCP">Amazon</a> and most other international booksellers.</span></p>
 
 <h2><a target="_blank" href="/images/francecover.jpg"><img src="/images/francecover.jpg" title="Click here for larger image" alt="Cover image for 'France'" width="200" height="200" style="float:right;margin:0px 0px 10px 10px"></a><span style="font-style: italic;">France </span>(Polity Press, 2020)</h2>
 
 <p>This book is an introduction to French history since 1940, written both for specialists and for students, tourists, journalists or simply those working in or on France. It is organised around six short thematic and chronological chapters. Starting from the idea that France is a "paradoxical" nation, it looks at a number of contradictions within recent French history, including the tension between defeat and resistance, state and citizen, and colonialism and anti-colonialism. The picture that emerges is one of a nation struggling to reconcile its core political values with the realities of a diverse society.</p>
 
-<p>You can hear me talk more about the book on my (second!) <a target="_blank" href="https://newbooksnetwork.com/france">New Books in French Studies podcast</a> with Roxanne Panchasi in 2021.<p>
-
-<p>You can buy the book <a href="https://politybooks.com/bookdetail/?isbn=9781509530014" target="_blank">directly from the publisher</a>, from <a target="_blank" href="https://mybook.to/G2Ay">Amazon</a>, or from your local bookstore. A <a target="_blank" href="https://liberus.com.tr/kitap/fransa/">Turkish translation</a> appeared with Liberus in 2025. For details of the revised French translation of the book, see above.</p>
+<p><span style="font-style: italic;">You can hear me talk more about the book on my (second!) <a target="_blank" href="https://newbooksnetwork.com/france">New Books in French Studies podcast</a> with Roxanne Panchasi in 2021. You can buy the book <a href="https://politybooks.com/bookdetail/?isbn=9781509530014" target="_blank">directly from the publisher</a>, from <a target="_blank" href="https://mybook.to/G2Ay">Amazon</a>, or from your local bookstore. A <a target="_blank" href="https://liberus.com.tr/kitap/fransa/">Turkish translation</a> appeared with Liberus in 2025. For details of the revised French translation of the book, see above.</span></p>
 
 <h2><a target="_blank" href="/images/divrep.jpg"><img src="/images/divrep.jpg" alt="Cover image for 'A Divided Republic'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">A Divided Republic: nation, state and citizenship in contemporary France </span>(Cambridge University Press, 2015)</h2>
 
 <p>Based on an original and sophisticated historical interpretation of contemporary French political culture, this book shows how passionate debates over citizenship, immigration, colonial memory, the reform of the state and the historiography of modern France have galvanised the French elite and created new spaces for discussion and disagreement. Over time, these debates have coalesced around two political languages - republicanism and liberalism - both of which structure the historical imagination and the symbolic vocabulary of French political actors. In the twenty-first century, these two political languages have become the central battleground of contemporary French politics.</p>
 
-<p>An easy way to get a sense of what the book is about is to <a target="_blank" href="http://newbooksnetwork.com/emile-chabal-a-divided-republic-nation-state-and-citizenship-in-contemporary-france-cambridge-up-2015/">listen to my New Books in French Studies podcast</a> with Roxanne Panchasi from 2016. I also discussed the book in French with Emmanuel Jousse at the <a target="_blank" href="https://www.youtube.com/watch?v=tE3vSh8AnBE"> Fondation Jean Jaurès</a> in 2018.</p>
+<p><span style="font-style: italic;">An easy way to get a sense of what the book is about is to <a target="_blank" href="http://newbooksnetwork.com/emile-chabal-a-divided-republic-nation-state-and-citizenship-in-contemporary-france-cambridge-up-2015/">listen to my New Books in French Studies podcast</a> with Roxanne Panchasi from 2016. I also discussed the book in French with Emmanuel Jousse at the <a target="_blank" href="https://www.youtube.com/watch?v=tE3vSh8AnBE"> Fondation Jean Jaurès</a> in 2018.</span></p>
 
-<p>You can <a href="https://doi.org/10.1017/CBO9781107447936" target="_blank">get online access to the e-book via Cambridge Core</a>. The book is also available from <a target="_blank" href="https://mybook.to/1flb">Amazon</a> and other booksellers.</p>
+<p><span style="font-style: italic;">You can <a href="https://doi.org/10.1017/CBO9781107447936" target="_blank">get online access to the e-book via Cambridge Core</a>. The book is also available from <a target="_blank" href="https://mybook.to/1flb">Amazon</a> and other booksellers.</span></p>
 
 <h2><a target="_blank" href="/images/france1970s.jpg"><img src="/images/france1970s.jpg" alt="Cover image for 'France since the 1970s'" title="Click here for larger image" width="200" height="200" style="float:right;margin:0px 0px 10px 10px"></a><span style="font-style: italic;">France since the 1970s: history, politics and memory in an age of uncertainty </span>(Bloomsbury Academic, 2014) (edited)</h2>
 
@@ -58,7 +56,7 @@ author_profile: true
 
 <p>Contributors to this volume include: Pascal Perrineau, Jim Shields, Nick Hewlett, Christophe Prochasson, Yann Scioldo-Z&uuml;rcher, Daniel A. Gordon, Isabel Hollis, Patricia M. E. Lorcin, Michael C. Behrent, Iain Stewart, Camille Robcis, Sophie Guérard de Latour and Sudhir Hazareesingh.</p>
 
-<p>You can <a href="https://www.bloomsbury.com/uk/france-since-the-1970s-9781472506139/" target="_blank">visit the website for the book</a> or <a href="http://dx.doi.org/10.5040/9781474210676" target="_blank">get online access to the e-book via Bloomsbury Collections</a>.</p>
+<p><span style="font-style: italic;">You can <a href="https://www.bloomsbury.com/uk/france-since-the-1970s-9781472506139/" target="_blank">visit the website for the book</a> or <a href="http://dx.doi.org/10.5040/9781474210676" target="_blank">get online access to the e-book via Bloomsbury Collections</a>.</span></p>
 
 <h2><a target="_blank" href="/images/francebritain.jpg"><img src="/images/francebritain.jpg" title="Click here for larger image" alt="Cover image for 'France and Britain in Two World Wars'" width="200" height="200" style="float:left;margin:0px 10px 10px 0px"></a><span style="font-style: italic;">Britain and France in Two World Wars: Truth, Myth and Memory </span>(Bloomsbury Academic, 2013) (co-edited with Robert Tombs)</h2>
 
@@ -66,7 +64,7 @@ author_profile: true
 
 <p>Contributors to this volume include: Gary Sheffield, John Keiger, William Philpott, Elizabeth Greenhalgh, Akhila Yechury, Martin Alexander, Sebastien Albertelli, Olivier Wieviorka, Philip Bell, Jay Winter, Robert Frank and David Reynolds.</p>
 
-<p>The book is available from <a href="https://www.bloomsbury.com/uk/britain-and-france-in-two-world-wars-9781441130396/" target="_blank">the publisher's website</a> and most online bookstores.</p>
+<p><span style="font-style: italic;">The book is available from <a href="https://www.bloomsbury.com/uk/britain-and-france-in-two-world-wars-9781441130396/" target="_blank">the publisher's website</a> and most online bookstores.</span></p>
 
 	</details>
 
