@@ -8,7 +8,7 @@ author_profile: true
 <details>
 	<summary>Click here for more details.</summary>
 	
-<h2><a target="_blank" href="/files/ageofhobsbawm.pdf"><img src="/images/ageofhobsbawm.jpg" alt="Cover image for 'Age of Hobsbawm'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">Age of Hobsbawm: The Life of A Revolutionary Historian </span>(Harvard University Press, 2026)</h3>
+<h2><a target="_blank" href="/files/ageofhobsbawm.pdf"><img src="/images/ageofhobsbawm.jpg" alt="Cover image for 'Age of Hobsbawm'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">Age of Hobsbawm: The Life of A Revolutionary Historian </span>(Harvard University Press, 2026)</h2>
 
 <p>Eric Hobsbawm (1917–2012) was one of the foremost European intellectuals of the twentieth century. He published hundreds of articles on modern history and culture, and his books became canonical works and bestsellers on both sides of the Atlantic. His crystal-clear writing, vast erudition, and ability to make his Marxist analysis digestible to a wide audience brought him worldwide renown.</p>
 
@@ -18,7 +18,7 @@ author_profile: true
 
 <p>You can buy the book directly from <a href="https://www.hup.harvard.edu/books/9780674737761" target="_blank">the publisher</a>, from <a href="https://mybook.to/VSMtLt" target="_blank">Amazon</a>, or from your local bookstore.</p>
 
-<h2><a target="_blank" href="/images/paradoxefrancaiscover.jpg"><img src="/images/paradoxefrancaiscover.jpg" alt="Cover image for 'Le paradoxe français'" title="Click here for larger image" width="200" height="200" style="float:right;margin:0px 0px 10px 10px" ></a><span style="font-style: italic;">Le paradoxe français : une nouvelle histoire de la France contemporaine </span>(Markus Haller, 2025)</h3>
+<h2><a target="_blank" href="/images/paradoxefrancaiscover.jpg"><img src="/images/paradoxefrancaiscover.jpg" alt="Cover image for 'Le paradoxe français'" title="Click here for larger image" width="200" height="200" style="float:right;margin:0px 0px 10px 10px" ></a><span style="font-style: italic;">Le paradoxe français : une nouvelle histoire de la France contemporaine </span>(Markus Haller, 2025)</h2>
 
 <p>Dans cette traduction remaniée et mise à jour du livre que j’ai publié avec Polity, je développe une interprétation novatrice de l'histoire contemporaine de la France. Plutôt que de présenter la France comme une nation unifiée, je m'attarde sur les tensions, les déceptions et les divisions qui caractérisent le présent des Français.</p>
 
@@ -26,7 +26,7 @@ author_profile: true
 
 <p>Le livre est disponible en librairie ou en suivant un des nombreux liens vers des librairies en ligne sur <a href="https://www.markushaller.com/livre/id/63/Emile+Chabal%2C+Le+paradoxe+fran%C3%A7ais" target="_blank">le site de l'éditeur</a>. J'ai également présenté quelques arguments du livre dans un entretien dans <a target="_blank" href="/files/expressinterviewoct2025.pdf"><span style="font-style: italic;">L'Express</span></a> en octobre 2025.</p>
 
-<h2><a target="_blank" href="/images/statesofignorance.jpg"><img src="/images/statesofignorance.jpg" alt="Cover image for 'States of Ignorance'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">States of Ignorance: Governing Irregular Migrants in Western Europe </span>(Cambridge University Press, 2023) (co-edited with Christina Boswell)</h3>
+<h2><a target="_blank" href="/images/statesofignorance.jpg"><img src="/images/statesofignorance.jpg" alt="Cover image for 'States of Ignorance'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">States of Ignorance: Governing Irregular Migrants in Western Europe </span>(Cambridge University Press, 2023) (co-edited with Christina Boswell)</h2>
 
 <p>Much attention has been focused on how states produce knowledge about the people they govern; far less has been written about those aspects of society that states choose to keep obscure. In this book, we explore this understudied dimension of state power by focusing on the way that Western European states have attempted to handle one of the most contested social issues of our day: the governance of irregular migrants.</p>
 
@@ -34,7 +34,7 @@ author_profile: true
 
 <p>You can visit the <a href="https://www.cambridge.org/gb/universitypress/subjects/politics-international-relations/comparative-politics/states-ignorance-governing-irregular-migrants-western-europe?format=HB" target="_blank">book's website</a> and you can <a href="https://doi.org/10.1017/9781009410199" target="_blank">get online access to the e-book via Cambridge Core</a>. The book is also available at <a target="_blank" href="https://www.amazon.co.uk/States-Ignorance-Governing-Irregular-Migrants/dp/1009410180/">Amazon (UK)</a> and most other international booksellers.</p>
 
-<h2><a target="_blank" href="/images/francecover.jpg"><img src="/images/francecover.jpg" title="Click here for larger image" alt="Cover image for 'France'" width="200" height="200" style="float:right;margin:0px 0px 10px 10px"></a><span style="font-style: italic;">France </span>(Polity Press, 2020)</h3>
+<h2><a target="_blank" href="/images/francecover.jpg"><img src="/images/francecover.jpg" title="Click here for larger image" alt="Cover image for 'France'" width="200" height="200" style="float:right;margin:0px 0px 10px 10px"></a><span style="font-style: italic;">France </span>(Polity Press, 2020)</h2>
 
 <p>This book is an introduction to French history since 1940, organised around six thematic and chronological chapters. Starting from the idea that France is a "paradoxical" nation, it looks at a number of contradictions within recent French history, including the tension between defeat and resistance, state and citizen, and colonialism and anti-colonialism.</p>
 
@@ -42,7 +42,7 @@ author_profile: true
 
 <p>You can buy the book <a href="https://politybooks.com/bookdetail/?isbn=9781509530014" target="_blank">directly from the publisher</a>, from <a target="_blank" https://mybook.to/G2Ay">Amazon, or from your local bookstore. A <a target="_blank" href="https://liberus.com.tr/kitap/fransa/">Turkish translation of the book</a> appeared with Liberus in 2025. For details of the revised French translation of the book, see above.</p>
 
-<h2><a target="_blank" href="/images/divrep.jpg"><img src="/images/divrep.jpg" alt="Cover image for 'A Divided Republic'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">A Divided Republic: nation, state and citizenship in contemporary France </span>(Cambridge University Press, 2015)</h3>
+<h2><a target="_blank" href="/images/divrep.jpg"><img src="/images/divrep.jpg" alt="Cover image for 'A Divided Republic'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">A Divided Republic: nation, state and citizenship in contemporary France </span>(Cambridge University Press, 2015)</h2>
 
 <p>Based on an original and sophisticated historical interpretation of contemporary French political culture, this book shows how passionate debates over citizenship, immigration, colonial memory, the reform of the state and the historiography of modern France have galvanised the French elite and created new spaces for discussion and disagreement. Over time, these debates have coalesced around two political languages - republicanism and liberalism - both of which structure the historical imagination and the symbolic vocabulary of French political actors. In the twenty-first century, these two political languages have become the central battleground of contemporary French politics.</p>
 
@@ -50,7 +50,7 @@ author_profile: true
 
 <p>You can visit the <a href="http://www.cambridge.org/gb/academic/subjects/history/twentieth-century-european-history/divided-republic-nation-state-and-citizenship-contemporary-france?format=PB" target="_blank">book's website</a> and you can <a href="https://doi.org/10.1017/CBO9781107447936" target="_blank">get online access to the e-book via Cambridge Core</a>. The book is also available from <a target="_blank" href="https://mybook.to/1flb">Amazon.</p>
 
-<h2><a target="_blank" href="/images/france1970s.jpg"><img src="/images/france1970s.jpg" alt="Cover image for 'France since the 1970s'" title="Click here for larger image" width="200" height="200" style="float:right;margin:0px 0px 10px 10px"></a><span style="font-style: italic;">France since the 1970s: history, politics and memory in an age of uncertainty </span>(Bloomsbury Academic, 2014) (edited)</h3>
+<h2><a target="_blank" href="/images/france1970s.jpg"><img src="/images/france1970s.jpg" alt="Cover image for 'France since the 1970s'" title="Click here for larger image" width="200" height="200" style="float:right;margin:0px 0px 10px 10px"></a><span style="font-style: italic;">France since the 1970s: history, politics and memory in an age of uncertainty </span>(Bloomsbury Academic, 2014) (edited)</h2>
 
 <p>How have the French reimagined the revolutionary, republican and reactionary ideologies that have been so crucial to their history? How has the arrival of hundreds of thousands of postcolonial migrants transformed politics? These are just some of the questions at the heart of this book. With contributions from leading specialists on topics as varied as the legacy of empire and neo-liberalism, it explores how the French have dealt with the pervasive sense of uncertainty that has become a defining feature of contemporary European politics.</p>
 
@@ -58,7 +58,7 @@ author_profile: true
 
 <p>You can <a href="https://www.bloomsbury.com/uk/france-since-the-1970s-9781472506139/" target="_blank">visit the website for the book</a> or <a href="http://dx.doi.org/10.5040/9781474210676" target="_blank">get online access to the e-book via Bloomsbury Collections</a>.</p>
 
-<h3><a target="_blank" href="/images/francebritain.jpg"><img src="/images/francebritain.jpg" title="Click here for larger image" alt="Cover image for 'France and Britain in Two World Wars'" width="200" height="200" style="float:left;margin:0px 10px 10px 0px"></a><span style="font-style: italic;">Britain and France in Two World Wars: Truth, Myth and Memory </span>(Bloomsbury Academic, 2013) (co-edited with Robert Tombs)</h3>
+<h3><a target="_blank" href="/images/francebritain.jpg"><img src="/images/francebritain.jpg" title="Click here for larger image" alt="Cover image for 'France and Britain in Two World Wars'" width="200" height="200" style="float:left;margin:0px 10px 10px 0px"></a><span style="font-style: italic;">Britain and France in Two World Wars: Truth, Myth and Memory </span>(Bloomsbury Academic, 2013) (co-edited with Robert Tombs)</h2>
 
 <p>France and Britain, indispensable allies in two world wars, remember and forget their shared history in contrasting ways. This book examines key episodes in the relationship between the two countries, including the outbreak of war in 1914, the battles of the Somme and Verdun, the Fall of France in 1940, Dunkirk, and British involvement in the French Resistance and the 1944 Liberation. The contributors discuss how the two countries tend to forget what they owe to each other, and have a distorted view of history which still colours and prejudices their relationship today, despite government efforts to build a close political and military partnership.</p>
 
