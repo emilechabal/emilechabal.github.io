@@ -170,6 +170,6 @@ For short-form writing - including op-eds and blog posts - go to my <a href="/ta
 	<li>Serge Audier, <span style="font-style: italic;">Néo-libéralismes: une archéologie intellectuelle</span> in <span style="font-style: italic;">La Vie des Idées/Books and Ideas</span> (July 2012) [<a href="http://www.booksandideas.net/The-Mid-Life-Crisis-of-Neo.html" target="_blank">Link to English version: 'The Mid-Life Crisis of Neo-Liberalism'</a>] [<a href="http://www.laviedesidees.fr/Le-neo-liberalisme-introuvable.html" target="_blank">Version française: 'Le néo-libéralisme introuvable?'</a>]</li>
 	</ul>
 
-Between 2002 and 2010, I wrote reviews of contemporary fiction for the Pakistani current affairs magazine <span style="font-style: italic;">Newsline</span>. A small selection of these can be found online <a href="http://newslinemagazine.com/?s=emile+chabal" target="_blank">here</a>.
+Between 2002 and 2010, I wrote reviews of contemporary fiction for the Pakistani current affairs magazine <span style="font-style: italic;">Newsline</span>, which stopped publishing in 2019</a>.
 
 	</details>
