@@ -8,7 +8,7 @@ author_profile: true
 <details>
 	<summary>Click here for more details.</summary>
 	
-<h2><a target="_blank" href="/images/ageofhobsbawm.jpg"><img src="/images/ageofhobsbawm.jpg" alt="Cover image for 'Age of Hobsbawm'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">Age of Hobsbawm: The Life of A Revolutionary Historian </span>(Harvard University Press, 2026)</h2>
+<h2><a target="_blank" href="/files/ageofhobsbawm.pdf"><img src="/images/ageofhobsbawm.jpeg" alt="Cover image for 'Age of Hobsbawm'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">Age of Hobsbawm: The Life of A Revolutionary Historian </span>(Harvard University Press, 2026)</h2>
 
 <p>Eric Hobsbawm (1917–2012) was one of the foremost European intellectuals of the twentieth century. He published hundreds of articles on modern history and culture, and his books became canonical works and bestsellers on both sides of the Atlantic. His crystal-clear writing, vast erudition, and ability to make his Marxist analysis digestible to a wide audience brought him worldwide renown.</p>
 
