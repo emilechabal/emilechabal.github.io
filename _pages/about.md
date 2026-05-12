@@ -19,6 +19,6 @@ I also have a long-standing interest in the history of the left. This led to the
 
 Finally, I have a significant track record of research on the politics of migration and immigration, including as part of a <a href="https://blogs.sps.ed.ac.uk/seeing-illegal-immigrants/" target="_blank">large collaborative project on irregular migration and state rationality in Europe</a> from 2016 to 2018.
 
-I have extensive international media and public engagement experience, and I am always keen to share my work and insights with others. I have also served as a review editor and editor of the journal <span style="font-style: italic;">Contemporary European History</span> since 2017. 
+I have extensive international <a href="/talks/">media and public engagement</a> experience, and I am always keen to share my work and insights with others. I have also served as a review editor and editor of the journal <a href="https://www.cambridge.org/core/journals/contemporary-european-history" target="_blank"><span style="font-style: italic;">Contemporary European History</span></a> since 2017. 
 
 My other great passion is music. I hold an LRSM performing diploma on the classical guitar and, for many years, taught the instrument to unsuspecting students of all ages.
