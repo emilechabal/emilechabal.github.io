@@ -8,11 +8,15 @@ author_profile: true
 <details>
 	<summary>Click here for more details.</summary>
 	
-<h3><a target="_blank" href="/files/ageofhobsbawm.pdf"><img src="/images/ageofhobsbawm.jpeg" alt="Cover image for 'Age of Hobsbawm'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a><span style="font-style: italic;">Age of Hobsbawm: The Life of A Revolutionary Historian </span>(Harvard University Press, 2026)</h3>
+<h3><span style="font-style: italic;">Age of Hobsbawm: The Life of A Revolutionary Historian </span>(Harvard University Press, 2026)</h3>
+
+<a target="_blank" href="/files/ageofhobsbawm.pdf"><img src="/images/ageofhobsbawm.jpeg" alt="Cover image for 'Age of Hobsbawm'" title="Click here for larger image" width="200" height="200" style="float:left;margin:0px 10px 10px 0px" ></a>
 
 <p>Eric Hobsbawm (1917–2012) was one of the foremost European intellectuals of the twentieth century. He published hundreds of articles on modern history and culture, and his books became canonical works and bestsellers on both sides of the Atlantic. His crystal-clear writing, vast erudition, and ability to make his Marxist analysis digestible to a wide audience brought him worldwide renown.</p>
 
-<p>Yet Hobsbawm was no academic hermit. Through his globetrotting journalism, he was embedded in an extraordinary web of politicians, activists, and fellow intellectuals across Europe, South Asia, and the Americas. In this rich intellectual biography, I trace the origins of Hobsbawm’s ideas and most famous writings by exploring his scholarly foundations, delving deep into the archives to uncover hidden links and unexpected conversations that shaped his work. Going well beyond the Ages series of modern history books for which he is best known, this book offers the first substantial interpretation of Hobsbawm’s entire body of writing. It also provides a trove of unique insights into the generations of Marxist writers with whom Hobsbawm was in conversation and whose work continues to shape political debates globally.</p>
+<p>Yet Hobsbawm was no academic hermit. Through his globetrotting journalism, he was embedded in an extraordinary web of politicians, activists, and fellow intellectuals across Europe, South Asia, and the Americas. In this rich intellectual biography, I trace the origins of Hobsbawm’s ideas and most famous writings by exploring his scholarly foundations, delving deep into the archives to uncover hidden links and unexpected conversations that shaped his work.</p> 
+
+<p>Going well beyond the Ages series of modern history books for which he is best known, this book offers the first substantial interpretation of Hobsbawm’s entire body of writing. It also provides a trove of unique insights into the generations of Marxist writers with whom Hobsbawm was in conversation and whose work continues to shape political debates globally.</p>
 
 <p>You can buy the book directly from <a href="https://www.hup.harvard.edu/books/9780674737761" target="_blank">the publisher</a>, from <a href="https://mybook.to/VSMtLt" target="_blank">Amazon</a>, or from your local bookstore.</p>
 
